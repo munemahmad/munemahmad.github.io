@@ -5,7 +5,6 @@ permalink: /opeds/
 author_profile: true
 ---
 
-## My Opeds
 
 <ul>
 {% for oped in site.opeds %}
