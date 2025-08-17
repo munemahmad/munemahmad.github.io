@@ -231,7 +231,7 @@ collections:
     permalink: /:collection/:path/
   Opeds:
     output: true
-    permalink: /:collection/:path/
+    permalink: /opeds/:path/
 
 
 # These settings control how pages and collections are included in the site
