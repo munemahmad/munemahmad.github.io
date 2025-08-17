@@ -3,7 +3,7 @@ title: "Attaining Sustainable Economic Growth in Bangladesh: Role of External Fi
 collection: publications
 category: manuscripts
 permalink: /publication/paper3
-excerpt: 'This paper investigates the role of external financial means of implementation (MoI) in fostering economic growth in Bangladesh over the period 1990–2018. Specifically, it evaluates the individual contributions of exports, foreign direct investment (FDI), official development assistance (ODA), and remittances, as well as the comparative impact of total export earnings vis-à-vis the aggregate of other MoIs. Employing the ARDL bounds testing approach, the analysis identifies long-run cointegrating relationships among the variables. The results indicate that economic growth increases by 0.60, 0.06, and 0.38 units, respectively, for each unit increase in exports, FDI, and ODA, while remittances exert an insignificant negative effect owing to weak investment linkages and inappropriate consumption patterns. Overall, exports emerge as the most effective driver of growth, contributing 0.05% more than the combined impact of other MoIs. The robustness of these findings is confirmed through a series of diagnostic tests, underscoring the centrality of exports in Bangladesh’s growth trajectory.'
+excerpt: 'Sustainable development is the goal of every nation. For this reason, achieving rapid.........'
 date: 2021-01-04
 venue: 'Asian Journal of Economic Modelling'
 paperurl: 'http://munemahmadchowdhury.github.io/files/paper3.pdf'
