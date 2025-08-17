@@ -1,7 +1,7 @@
 ---
 title: "‘এল নিনো’ এবং বাজেট ভাবনা (El Niño and Budget Reflections)"
 collection: opeds
-permalink: /_opeds/oped1
+permalink: /opeds/oped1
 excerpt: '‘এল নিনো’ শব্দের অর্থ ছোট ছেলে, এটি মূলত স্প্যানিশ ভাষার শব্দ। স্বাভাবিক  অবস্থায় বাণিজ্যবায়ু (ট্রেড উইন্ড) প্রশান্ত মহাসাগরে নিরক্ষরেখা বরাবর পূর্ব থেকে পশ্চিমে প্রবাহিত হয়। ..........'
 date: 2023-08-02
 venue: 'Bangla Tribune'
