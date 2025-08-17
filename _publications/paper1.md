@@ -3,7 +3,7 @@ title: "Facilitating higher education: differential status of public and private
 collection: publications
 category: manuscripts
 permalink: /publication/paper1
-excerpt: 'The study investigates the comparative standing of public and private universities in Bangladesh with respect to selected determinants of higher education quality. Employing an explanatory-quantitative research design and drawing exclusively on secondary data, the analysis encompasses the entire population of universities in the country. The findings demonstrate that, across the majority of determinants considered, private universities exhibit more favorable outcomes relative to their public counterparts, thereby underscoring significant implications for quality assurance and policy formulation in Bangladesh’s higher education sector.'
+excerpt: 'Access to higher education shapes a country in a more productive and progressive way. For this reason, Bangladesh..........'
 date: 2020-06-28
 venue: 'IOSR Journal of Research & Method in Education'
 paperurl: 'http://munemahmadchowdhury.github.io/files/paper1.pdf'
