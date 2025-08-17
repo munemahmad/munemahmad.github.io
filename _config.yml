@@ -229,6 +229,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  opeds:
+    output: true
+    permalink: /opeds/:title/
+
 
 
 
