@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: archive
 title: "Op-Eds"
 permalink: /opeds/
 author_profile: true
 ---
 
 
-<h1>Op-eds</h1>
 <ul>
 {% for oped in site.opeds %}
   <li>
