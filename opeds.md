@@ -1,6 +1,6 @@
 ---
 title: "Opeds"
-layout: default
+layout: archive
 permalink: /opeds/
 author_profile: true
 ---
