@@ -2,6 +2,7 @@
 title: "Opeds"
 layout: default
 permalink: /opeds/
+author_profile: true
 ---
 
 ## My Opeds
