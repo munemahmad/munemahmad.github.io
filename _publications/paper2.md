@@ -3,7 +3,7 @@ title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/paper2
-excerpt: 'This study examines the impact of foreign direct investment (FDI) on employment generation in Bangladesh using annual time series data from 1991 to 2018. Incorporating gross domestic product (GDP) and trade openness as additional explanatory variables, the analysis applies Johansen–Juselius cointegration and vector error correction modeling to capture long-run relationships and short-run dynamics. The results reveal the existence of cointegrating relations among the variables, with both FDI and GDP exerting significant positive long-run effects on employment, while trade openness demonstrates a negative influence. In the short run, however, FDI is negatively associated with employment. The findings highlight the necessity of formulating policies that promote greenfield investment and strengthen domestic production capacity to reduce import dependence and enhance sustainable job creation.'
+excerpt: 'This study is designed to investigate the role of Foreign Direct Investment (FDI)..........'
 date: 2020-10-22
 venue: 'International Journal of Applied Economics, Finance and Accounting'
 paperurl: 'http://munemahmadchowdhury.github.io/files/paper2.pdf'
