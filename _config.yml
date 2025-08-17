@@ -234,10 +234,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-# _opeds
+ # _posts
   - scope:
       path: ""
-      type: opeds
+      type: posts
     values:
       layout: single
       author_profile: true
