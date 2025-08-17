@@ -1,13 +1,13 @@
 ---
-title: "Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation"
+title: "Disintegrated Impact of Trade Openness on Income Inequality: Empirical Evidence from Bangladesh"
 collection: publications
 category: manuscripts
-permalink: /publication/paper3
-excerpt: 'Sustainable development is the goal of every nation. For this reason, achieving rapid.........'
-date: 2021-01-04
-venue: 'Asian Journal of Economic Modelling'
-paperurl: 'http://munemahmadchowdhury.github.io/files/paper3.pdf'
-citation: 'Uddin, K. M. K., & Chowdhury, M. A. (2021). &quot; Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation.&quot; <i>Asian Journal of Economic Modelling</i>. 9(1), 1-14.'
+permalink: /publication/paper4
+excerpt: 'There have been many studies on the relationship between trade and income inequality, but very few of them have distinguished.........'
+date: 2021-06-08
+venue: 'Business and Economic Research'
+paperurl: 'http://munemahmadchowdhury.github.io/files/paper4.pdf'
+citation: 'Chowdhury, M. A., Nijhum, H. R., & Uddin, K. M. K. (2021). &quot; Disintegrated Impact of Trade Openness on Income Inequality: Empirical Evidence from Bangladesh.&quot; <i>Business and Economic Research</i>. 11(3), 1-18.'
 ---
 
-Sustainable development is the goal of every nation. For this reason, achieving rapid and continuous economic growth is imperative and steps should be taken to play a strong role by identifying and accelerating the performance of the areas that affect it the most. This paper explores the role of external financial means of implementation (MoI) in amplifying the economic growth of Bangladesh for the period 1990-2018. Two thoughts are specifically canvassed here: Sole contribution of export and each of the other MoI in achieving higher economic growth; total export earning or the aggregate amount of other MoI, which contribute the most. Co-integrating relations are determined by ARDL Bound test as variables are stationary at different level. In the long run, economic growth increase by 0.60, 0.06 and 0.38 units for every 1 unit of export, FDI and ODA increase. Money earned from remittances plays an insignificant negative role in GDP due to lack of investment and inappropriate consumption during that period. Export play the most effective role to boost economic growth as it contributes 0.05% more than aggregate value of other MoIs. The solidity of the results has been confirmed through various diagnostic tests.    
+There have been many studies on the relationship between trade and income inequality, but very few of them have distinguished the idea of trade by export and import. For this reason this study is conducted to see how the income inequality of Bangladesh get impacted with the presence of import and export separately. ARDL bound test is used to inspect whether they possess long run relation with income inequality for the period of 1975 to 2016. Thereupon export has been found to be widening the income gap in the long run. Though import improves the situation by abating the gap, it is not significant enough. Besides that other imperative macroeconomic variables are used to condense the omitted variable bias and their outcomes akin to the theory for developing country aspect. Furthermore, models like FMOLS, DOLS and CCR are used for ensuring the robustness of the result and other diagnostic tests support the validity of the result. Moreover policies related to labor welfare need to be set in a manner so that minimum wage allows a worker to lead a healthy life which will help keeping him or her productive. In addition, correspondent authority should frame the policies to diversify the export sector to give the opportunity to small entrepreneurs a chance to enter by providing the convenient environment.  
