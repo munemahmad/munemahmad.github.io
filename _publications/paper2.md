@@ -3,6 +3,7 @@ title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach"
 collection: publications
 category: manuscripts
 permalink: /publication/paper2
+excerpt: 'The study investigates the comparative standing of public and private universities in Bangladesh with respect to selected determinants of higher education quality. Employing an explanatory-quantitative research design and drawing exclusively on secondary data, the analysis encompasses the entire population of universities in the country. The findings demonstrate that, across the majority of determinants considered, private universities exhibit more favorable outcomes relative to their public counterparts, thereby underscoring significant implications for quality assurance and policy formulation in Bangladesh’s higher education sector.'
 date: 2020-10-22
 venue: 'International Journal of Applied Economics, Finance and Accounting'
 paperurl: 'http://munemahmadchowdhury.github.io/files/paper2.pdf'
