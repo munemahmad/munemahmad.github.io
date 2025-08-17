@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 <div class="slides-container">
-  <iframe src="https://docs.google.com/presentation/d/11KmuP5_Hk7z0Ls8zICzRo9w0uI-w4cfJE-AaQ0vT78E/edit?slide=id.g3311bd9b131_0_0#slide=id.g3311bd9b131_0_0" 
+  <iframe src="https://docs.google.com/presentation/d/11KmuP5_Hk7z0Ls8zICzRo9w0uI-w4cfJE-AaQ0vT78E/present?slide=id.g27b7205cf1d_0_21" 
           frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </div>
 
