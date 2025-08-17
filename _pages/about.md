@@ -11,6 +11,12 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
+<div class="slides-container">
+  <iframe src="https://docs.google.com/presentation/d/11KmuP5_Hk7z0Ls8zICzRo9w0uI-w4cfJE-AaQ0vT78E/edit?slide=id.g3311bd9b131_0_0#slide=id.g3311bd9b131_0_0" 
+          frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</div>
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
