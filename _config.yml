@@ -231,7 +231,7 @@ collections:
     permalink: /:collection/:path/
   opeds:
     output: true
-    permalink: /opeds/:title/
+    permalink: /opeds/:path/
 
 
 
