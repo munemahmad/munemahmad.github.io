@@ -229,17 +229,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Opeds:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-# _posts
+# _opeds
   - scope:
       path: ""
-      type: posts
+      type: opeds
     values:
       layout: single
       author_profile: true
@@ -289,17 +287,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _opeds
-  - scope:
-      path: ""
-      type: opeds
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
 
 # Sass/SCSS
 sass:
