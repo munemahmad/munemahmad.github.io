@@ -1,13 +1,13 @@
 ---
-title: "Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation"
+title: "Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/paper3
-excerpt: 'Sustainable development is the goal of every nation. For this reason, achieving rapid.........'
-date: 2021-01-04
-venue: 'Asian Journal of Economic Modelling'
-paperurl: 'http://munemahmadchowdhury.github.io/files/paper3.pdf'
-citation: 'Uddin, K. M. K., & Chowdhury, M. A. (2021). &quot; Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation.&quot; <i>Asian Journal of Economic Modelling</i>. 9(1), 1-14.'
+permalink: /publication/paper8
+excerpt: 'This study aims to scrutinize the influence of infrastructure on the economic growth.........'
+date: 2024-04-25
+venue: 'Journal of Tropical Futures'
+paperurl: 'http://munemahmadchowdhury.github.io/files/paper8.pdf'
+citation: 'Chowdhury, M. A., & Khan, M. Z. S. (2025). &quot; Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis.&quot; <i>Journal of Tropical Futures</i>. 2 (1), 37-53.'
 ---
 
-Sustainable development is the goal of every nation. For this reason, achieving rapid and continuous economic growth is imperative and steps should be taken to play a strong role by identifying and accelerating the performance of the areas that affect it the most. This paper explores the role of external financial means of implementation (MoI) in amplifying the economic growth of Bangladesh for the period 1990-2018. Two thoughts are specifically canvassed here: Sole contribution of export and each of the other MoI in achieving higher economic growth; total export earning or the aggregate amount of other MoI, which contribute the most. Co-integrating relations are determined by ARDL Bound test as variables are stationary at different level. In the long run, economic growth increase by 0.60, 0.06 and 0.38 units for every 1 unit of export, FDI and ODA increase. Money earned from remittances plays an insignificant negative role in GDP due to lack of investment and inappropriate consumption during that period. Export play the most effective role to boost economic growth as it contributes 0.05% more than aggregate value of other MoIs. The solidity of the results has been confirmed through various diagnostic tests.    
+This study aims to scrutinize the influence of infrastructure on the economic growth of Bangladesh, employing an extensive time series analysis spanning from 1973 to 2020. Utilizing Principle Component Analysis, two distinct indices were constructed to gauge the dimensions of economic and social infrastructure. Subsequently, Auto-Regressive Distributive Lag (ARDL) and Nonlinear Auto Regressive Distributive Lag (NARDL) bound tests were employed to assess the existence of long-run relationships among the variables under examination. The findings indicate a significant and positive contribution of economic infrastructure to both long and short-term production expansion. Upon further disaggregation into negative and positive shocks, consistent results emerge. An increase (decrease) in the economic infrastructure (EI) index by one unit corresponds to an upsurge (subside) of 0.16% (0.17%) in economic growth. In contrast, social infrastructure (SI) exhibits no significant long-run association with GDP growth. The discerned pattern suggests that EI play a pivotal role in driving aggregate output, while SI display a lag. Despite this, it is imperative to underscore the importance of SI for human development. Consequently, adopting a comprehensive and strategic approach, encompassing vision,ensuring quality inclusivity, and anticorruption measures, is imperative for Bangladesh to fully realize the transformative potential of its infrastructure investments and foster sustained economic growth.
