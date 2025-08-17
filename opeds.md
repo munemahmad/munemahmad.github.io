@@ -1,16 +1,17 @@
 ---
-layout: archive
+layout: default
 title: "Op-Eds"
 permalink: /opeds/
 author_profile: true
 ---
 
-{% include base_path %}
 
-{% for post in site.opeds reversed %}
-  <div class="archive-item">
-    <h3><a href="{{ post.url | default: post.permalink }}">{{ post.title }}</a></h3>
-    <p><em>{{ post.newspaper }}</em> | <a href="{{ post.url }}">Read Online</a></p>
-    <p>{{ post.excerpt }}</p>
-  </div>
+<h1>Op-eds</h1>
+<ul>
+{% for oped in site.opeds %}
+  <li>
+    <a href="{{ oped.url }}">{{ oped.title }}</a>
+  </li>
 {% endfor %}
+</ul>
+
