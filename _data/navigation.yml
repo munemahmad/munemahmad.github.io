@@ -20,11 +20,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Op-Ed"
     url: /year-archive/
 
-  - title: "Op-Ed"
-    url: /opeds/
     
   - title: "CV"
     url: /cv/
