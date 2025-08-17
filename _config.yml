@@ -229,9 +229,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  opeds:
-    output: true
-    permalink: /opeds/:path/
+
 
 
 # These settings control how pages and collections are included in the site
