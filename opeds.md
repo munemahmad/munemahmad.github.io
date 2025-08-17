@@ -1,17 +1,19 @@
 ---
 title: "Opeds"
-layout: page
+layout: default
 permalink: /opeds/
 ---
 
-## My Opeds
+<div class="container">
+  <h1>My Opeds</h1>
 
-<ul>
-{% for oped in site.opeds %}
-  <li>
-    <a href="{{ oped.url }}">{{ oped.title }}</a> - <em>{{ oped.newspaper }}</em>, {{ oped.date | date: "%B %d, %Y" }}<br>
-    {{ oped.excerpt }}<br>
-    <a href="{{ oped.read_online }}" target="_blank">Read Online</a>
-  </li>
-{% endfor %}
-</ul>
+  <ul class="opeds-list">
+  {% for oped in site.opeds %}
+    <li>
+      <a href="{{ oped.url }}">{{ oped.title }}</a> - <em>{{ oped.newspaper }}</em>, {{ oped.date | date: "%B %d, %Y" }}</br>
+      {{ oped.excerpt }}<br>
+      <a href="{{ oped.read_online }}" target="_blank">Read Online</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
