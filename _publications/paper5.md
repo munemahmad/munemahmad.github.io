@@ -1,13 +1,13 @@
 ---
-title: "Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation"
+title: "Interaction of market size, inflation and trade openness on foreign direct investment inflows in India, China and Japan: panel dynamic analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/paper3
-excerpt: 'Sustainable development is the goal of every nation. For this reason, achieving rapid.........'
-date: 2021-01-04
-venue: 'Asian Journal of Economic Modelling'
-paperurl: 'http://munemahmadchowdhury.github.io/files/paper3.pdf'
-citation: 'Uddin, K. M. K., & Chowdhury, M. A. (2021). &quot; Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation.&quot; <i>Asian Journal of Economic Modelling</i>. 9(1), 1-14.'
+permalink: /publication/paper5
+excerpt: 'In the world of competitiveness, FDI is considered as a macroeconomic component, and that developing countries are.........'
+date: 2023-05-14
+venue: 'International Journal of Indian Culture and Business Management'
+paperurl: 'http://munemahmadchowdhury.github.io/files/paper5.pdf'
+citation: 'Rahman, M. H., Chowdhury, M. A., & Akter, M. S. (2023). &quot; Interaction of market size, inflation and trade openness on foreign direct investment inflows in India, China and Japan: panel dynamic analysis.&quot; <i>International Journal of Indian Culture and Business Management</i>. 29(1), 45-64.'
 ---
 
-Sustainable development is the goal of every nation. For this reason, achieving rapid and continuous economic growth is imperative and steps should be taken to play a strong role by identifying and accelerating the performance of the areas that affect it the most. This paper explores the role of external financial means of implementation (MoI) in amplifying the economic growth of Bangladesh for the period 1990-2018. Two thoughts are specifically canvassed here: Sole contribution of export and each of the other MoI in achieving higher economic growth; total export earning or the aggregate amount of other MoI, which contribute the most. Co-integrating relations are determined by ARDL Bound test as variables are stationary at different level. In the long run, economic growth increase by 0.60, 0.06 and 0.38 units for every 1 unit of export, FDI and ODA increase. Money earned from remittances plays an insignificant negative role in GDP due to lack of investment and inappropriate consumption during that period. Export play the most effective role to boost economic growth as it contributes 0.05% more than aggregate value of other MoIs. The solidity of the results has been confirmed through various diagnostic tests.    
+In the world of competitiveness, FDI is considered as a macroeconomic component, and that developing countries are introducing it as a substitute for their larger investment gaps in policies. Fast-growing countries like China, India, and Japan are also no exception to this. Findings from the study confirm the existence of a long-term relationship among the variables. The long-run dynamic equation shows a greater degree of openness and an expansion of market size attracts more FDI in the long run, whilst raising the inflation rate discourages foreigners from investing. In the short run, none of the variables have any sort of significant relationship with the Granger causality test, giving an interesting insight that unidirectional causalities exist with the remaining variables, which run from FDI to trade openness. In a nutshell, FDI helps to sustain the economies of these countries through its multiplier impact on other macroeconomic factors. 
