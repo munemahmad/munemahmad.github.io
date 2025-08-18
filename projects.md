@@ -2,6 +2,7 @@
 title: "Research Projects"
 layout: page
 permalink: /projects/
+author_profile: true
 ---
 
 ## My Research Projects
