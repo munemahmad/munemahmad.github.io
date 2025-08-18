@@ -4,7 +4,7 @@ duration: "March 2023 – June 2023"
 client: "Gono Unnoyon Kendra, Bangladesh"
 sample_size: "200 Questionnaire Survey, 12 FGDs, 20 KIIs and 4 case stories"
 responsibilities: "Survey Tools Design, Developing ODK & Data Base Management."
-excerpt: "This is a consultancy project where my role was Data Amnalyst"
+excerpt: "This is a consultancy project where my role was Data Analyst"
 permalink: /projects/project12
 date: 2023-06-30
 collection: projects
