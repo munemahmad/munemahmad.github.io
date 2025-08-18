@@ -1,7 +1,9 @@
 ---
 title: "Research Projects"
-layout: page
+layout: archive
 permalink: /projects/
+collection: projects
+entries_layout: list
 author_profile: true
 ---
 
