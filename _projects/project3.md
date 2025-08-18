@@ -3,7 +3,7 @@ title: "Assessing the Opportunity Loss and Incentives of the Bangladesh Governme
 duration: "December 2022 – February 2023"
 client: "OXFAM"
 sample_size: "To be included"
-responsibility: "Survey Tools design, Developing ODK, and Data Analysis."
+responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
 excerpt: "Bangladesh is particularly vulnerable to the effects of climate change due to its distinctive location, flat topography, and dense population. Several research studies........"
 permalink: /projects/project2
 date: 2023-06-30
