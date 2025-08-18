@@ -4,7 +4,7 @@ duration: "January 2022 – August 2022"
 client: "TI Maldives"
 sample_size: "30 State Owned Enterprises and 8 KIIs"
 responsibilities: "Documentation, Qualitative Transcription, and Report writing."
-excerpt: "*Contributed to this project while working at Change Initiative*"
+excerpt: "Contributed to this project while working at Change Initiative"
 permalink: /projects/project1
 date: 2022-08-15
 collection: projects
