@@ -1,6 +1,7 @@
 ---
 
 title: "Climate change is blowing up our electricity expenses"
+layout: archive
 excerpt: "In recent years, there has been a worrying trend of rising temperatures in Dhaka. Last year marked the highest recorded temperature in......"
 date: 2024-04-18
 newspaper: "The Business Standard"
