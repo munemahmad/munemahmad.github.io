@@ -16,7 +16,7 @@ author_profile: true
     <br><strong>Duration:</strong> {{ project.duration }}  
     <br><strong>Client:</strong> {{ project.client }}  
     <br><strong>Sample Size:</strong> {{ project.sample_size }}  
-    <br><strong>My Role:</strong> {{ project.role }}  
+    <br><strong>Responsibility:</strong> {{ project.responsibility }}  
     <br>{{ project.excerpt }}
   </li>
   <br>
