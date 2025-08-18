@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+You can download my latest CV here:  
+[📄 Download CV (PDF)](/files/CV.pdf)
+
 {% include base_path %}
 
 Education
@@ -59,11 +62,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
