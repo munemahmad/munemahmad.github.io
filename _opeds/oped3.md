@@ -2,10 +2,12 @@
 
 title: "Climate change is blowing up our electricity expenses"
 layout: archive
+collection: opeds
 excerpt: "In recent years, there has been a worrying trend of rising temperatures in Dhaka. Last year marked the highest recorded temperature in......"
 date: 2024-04-18
 newspaper: "The Business Standard"
 read_online: "https://www.tbsnews.net/thoughts/climate-change-blowing-our-electricity-expenses-831116"
+author_profile: true
 ---
 
 In recent years, there has been a worrying trend of rising temperatures in Dhaka. Last year marked the highest recorded temperature in 58 years, reaching a scorching 40.5° Celsius. This spike in temperature has led to a surge in electricity consumption as residents increasingly rely on air conditioners, coolers, and fans to combat the heat. The impacts of climate change in the low-lying deltaic plains of Bangladesh have evolved rapidly from distant concerns to current crises. It is significantly influencing the economic and social landscape of the country, creating new problems, such as the growing electricity consumption and its associated costs. 
