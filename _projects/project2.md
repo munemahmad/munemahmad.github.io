@@ -8,7 +8,7 @@ excerpt: "Bangladesh is particularly vulnerable to the effects of climate change
 permalink: /projects/project2
 date: 2023-06-30
 collection: projects
-layout: project
+layout: archive
 author_profile: true
 ---
 ## Executive Summary
