@@ -2,11 +2,11 @@
 title: "Understanding Political and Socio-Economic Impacts due to Climate Change Vulnerability and Explore Potential Capacities of Climate-Vulnerable Communities for Association for Land Reform and Development."
 duration: "November 2022 – June 2023"
 client: "Association for Land Reform and Development (ALRD)"
-sample_size: "30 State Owned Enterprises and 8 KIIs"
+sample_size: "650 Questionnaire Survey, 16 FGDs, 43 KIIs, and 16 Case Stories"
 role: "Research Assistant"
-excerpt: "State-Owned Enterprises (SOEs) play a pivotal role in the Maldives' economy, dominating sectors such as tourism (contributing 24.6% to GDP), fisheries, telecommunications, aviation, finance, and utilities. With 34 SOEs—6 listed on the Maldives........"
-permalink: /projects/project1
-date: 2022-08-15
+excerpt: "Bangladesh is particularly vulnerable to the effects of climate change due to its distinctive location, flat topography, and dense population. Several research studies........"
+permalink: /projects/project2
+date: 2023-06-30
 collection: projects
 layout: publication
 ---
