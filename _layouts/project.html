@@ -2,12 +2,22 @@
 layout: default
 ---
 
-<article class="project">
-  <h1>{{ page.title }}</h1>
-  <p><strong>Duration:</strong> {{ page.duration }}</p>
-  <p><strong>Client:</strong> {{ page.client }}</p>
-  <p><strong>Sample Size:</strong> {{ page.sample_size }}</p>
-  <p><strong>My Role:</strong> {{ page.role }}</p>
-  <hr>
-  {{ content }}
-</article>
+<div class="container">
+  <div class="main-content" style="width: 70%; float: left;">
+    <article class="project">
+      <h1>{{ page.title }}</h1>
+      <p><strong>Duration:</strong> {{ page.duration }}</p>
+      <p><strong>Client:</strong> {{ page.client }}</p>
+      <p><strong>Sample Size:</strong> {{ page.sample_size }}</p>
+      <p><strong>My Role:</strong> {{ page.role }}</p>
+      <hr>
+      {{ content }}
+    </article>
+  </div>
+
+  <aside class="sidebar" style="width: 28%; float: right;">
+    {% include author-profile.html %}
+  </aside>
+</div>
+
+<div style="clear: both;"></div>
