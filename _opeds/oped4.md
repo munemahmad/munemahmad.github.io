@@ -1,6 +1,7 @@
 ---
 
 title: "Gamification in Learning: Enhancing Student Engagement in Universities"
+layout: archive
 excerpt: "Imagine classrooms that feel less like lectures and more like exciting quests. Picture textbooks transformed into......"
 date: 2024-07-26
 newspaper: "Dhaka Courier"
