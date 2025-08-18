@@ -3,7 +3,7 @@ title: "State of Accountability of State-Owned Enterprises in the Maldives for T
 duration: "January 2022 – August 2022"
 client: "TI Maldives"
 sample_size: "30 State Owned Enterprises and 8 KIIs"
-responsibility: "Documentation, Qualitative Transcription, and Report writing.  "
+responsibilities: "Documentation, Qualitative Transcription, and Report writing."
 excerpt: "State-Owned Enterprises (SOEs) play a pivotal role in the Maldives' economy, dominating sectors such as tourism (contributing 24.6% to GDP), fisheries, telecommunications, aviation, finance, and utilities. With 34 SOEs—6 listed on the Maldives........"
 permalink: /projects/project1
 date: 2022-08-15
