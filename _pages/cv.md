@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSS in Economics, Comilla University, 2020 
+* BSS in Economics, Comilla University, 2019 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025- Present: Research Fellow
+  * Bangladesh Institute of Social Research Trust
+  * Duties include: Updates and improvements to the template
+  * Supervisor: Dr. Md. Murad Ahmad
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* July 2024 – January 2025: Quantitative Researcher 
+  * Impact Research Team, Work on Climate  
+  * Duties include: Updates and improvements to the template
+ 
+* June 2023- December 2024: Research Associate
+  * Bangladesh Institute of Social Research Trust
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Md. Murad Ahmad
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* May 2022- June 2023: Research Assistant
+  * Change Initiative 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Md. Khurshed Alam
+
+* May 2022- June 2023: Graduate Research Assistant
+  * Department of Economics, Comilla University 
+  * Duties included: Tagging issues
+  * Supervisor: Professor Dr. Kazi Mohammed Kamal Uddin
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Eviews
+* SPSS
+* STATA
+* R (Basic)
+* Kobo Toolbox
+* Survey CTO
+* ODK (XLS)
+* ArcGIS (Basic)
+* Github
+
 
 Publications
 ======
@@ -59,6 +71,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
