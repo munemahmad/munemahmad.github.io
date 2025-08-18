@@ -5,7 +5,7 @@ client: "BRAC"
 sample_size: "400 Questionnaire Survey, 12 FGDs, 24 KIIs and 12 IDIs"
 responsibilities: "Survey Tools design, Field Team Supervision, Data Analysis, and Report writing."
 excerpt: "Contributed to this project while working at Bangladesh Institute of Social Research Trust"
-permalink: /projects/project9
+permalink: /projects/project10
 date: 2025-02-28
 collection: projects
 layout: archive
