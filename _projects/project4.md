@@ -3,7 +3,7 @@ title: "Renewable Energy Finance in Bangladesh: Prospects, Challenges, Risks and
 duration: "October 2022 – June 2023"
 client: "OXFAM"
 sample_size: " 30 Semi-structured Questionnaire Survey, 14 KIIs, and 33 IDIs"
-responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
+responsibilities: "Survey Tools Design and Developing ODK."
 excerpt: "Contributed to this project while working at Change Initiative"
 permalink: /projects/project4
 date: 2023-06-30
