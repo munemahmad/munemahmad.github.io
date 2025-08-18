@@ -3,7 +3,7 @@ title: "Integrity Assessment of Bangladesh Wash Sector (Water Resources Manageme
 duration: "January 2023 – May 2023"
 client: "Water Integrity Network"
 sample_size: "100 Semi-structured Questionnaire Survey, 16 KIIs, and 8 FGDs"
-responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
+responsibilities: "Qualitative Data Collection, Analyzing Acts and Policies, and Report writing."
 excerpt: "Contributed to this project while working at Change Initiative"
 permalink: /projects/project5
 date: 2023-04-30
