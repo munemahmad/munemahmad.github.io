@@ -6,7 +6,7 @@ sample_size: "210 Questionnaire Survey, 5 KIIs, 4 FGDs and 2 IDIs"
 responsibilities: "Survey Tools design, Field Team Supervision, Data Analysis, and Report writing."
 excerpt: "This is a consultancy project where my role was co-lead researcher"
 permalink: /projects/project11
-date: 2025-08-31
+date: 2023-08-31
 collection: projects
 layout: archive
 author_profile: true
