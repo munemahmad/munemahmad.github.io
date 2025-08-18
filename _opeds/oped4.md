@@ -2,10 +2,12 @@
 
 title: "Gamification in Learning: Enhancing Student Engagement in Universities"
 layout: archive
+collection: opeds
 excerpt: "Imagine classrooms that feel less like lectures and more like exciting quests. Picture textbooks transformed into......"
 date: 2024-07-26
 newspaper: "Dhaka Courier"
 read_online: "https://www.dhakacourier.com.bd/news/Featured_2/Gamification-in-Learning-Enhancing-Student-Engagement-in-Universities/8314"
+author_profile: true
 ---
 
 Imagine classrooms that feel less like lectures and more like exciting quests. Picture textbooks transformed into interactive adventures. This isn't a scene from a fantasy novel; it's the power of gamification in education.
