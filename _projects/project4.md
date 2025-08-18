@@ -4,8 +4,8 @@ duration: "October 2022 – June 2023"
 client: "OXFAM"
 sample_size: " 30 Semi-structured Questionnaire Survey, 14 KIIs, and 33 IDIs"
 responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
-excerpt: "Bangladesh is particularly vulnerable to the effects of climate change due to its distinctive location, flat topography, and dense population. Several research studies........"
-permalink: /projects/project2
+excerpt: "Climate change is a major threat to human civilization, with two-thirds of global greenhouse gas emissions linked to burning fossil fuels for energy. The Intergovernmental Panel on ........"
+permalink: /projects/project4
 date: 2023-06-30
 collection: projects
 layout: archive
