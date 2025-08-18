@@ -7,6 +7,7 @@ role: "Research Assistant"
 excerpt: "State-Owned Enterprises (SOEs) play a pivotal role in the Maldives' economy, dominating sectors such as tourism (contributing 24.6% to GDP), fisheries, telecommunications, aviation, finance, and utilities. With 34 SOEs—6 listed on the Maldives........"
 permalink: /projects/project1
 date: 2022-08-15
+collection: projects
 ---
 ## Executive Summary
 
