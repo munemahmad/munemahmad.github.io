@@ -5,8 +5,8 @@ client: "OXFAM"
 sample_size: "To be included"
 responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
 excerpt: "Bangladesh is particularly vulnerable to the effects of climate change due to its distinctive location, flat topography, and dense population. Several research studies........"
-permalink: /projects/project2
-date: 2023-06-30
+permalink: /projects/project3
+date: 2023-02-28
 collection: projects
 layout: archive
 author_profile: true
