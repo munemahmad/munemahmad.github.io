@@ -8,7 +8,7 @@ excerpt: "State-Owned Enterprises (SOEs) play a pivotal role in the Maldives' ec
 permalink: /projects/project1
 date: 2022-08-15
 collection: projects
-layout: project
+layout: archive
 author_profile: true
 ---
 ## Executive Summary
