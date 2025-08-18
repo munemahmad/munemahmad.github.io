@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Creative Synergies: an IRIO Analysis of Jakarta's Creative Industry and its Spillover Effects on National Economic Growth"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: working paper
+permalink: /publication/workingpaper2
+excerpt: 'he creative industry has rapidly grown into a critical component of DKI Jakarta's economy. According to BPS data, it.....'
+date: 2025-02-17
+venue: 'SSRN'
+paperurl: ''
+citation: 'Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). &quot; Creative Synergies: an IRIO Analysis of Jakarta's Creative Industry and its Spillover Effects on National Economic Growth. &quot; <i>Working Paper</i>. '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The creative industry has rapidly grown into a critical component of DKI Jakarta's economy. According to BPS data, it contributed approximately 7.28% to Indonesia's national GDP in 2017, with a total value of IDR 989.2 trillion. In DKI Jakarta, this sector accounted for 9.78% of the GRDP, amounting to IDR 256.5 trillion. Furthermore, Jakarta's creative industry plays a pivotal role in influencing and driving development in other regions across Indonesia. This study employs the Interregional Input-Output (IRIO) model and an Ordinary Least Square (OLS), utilizing regression analysis, to explore the strategic importance of the creative industry in DKI Jakarta and the key factors affecting its performance. The findings indicate that salaries/wages, employment levels, fixed capital (assets), fuel costs, and the proportion of imported raw materials significantly determine the industry's output and value-added growth. To foster the development of the creative industry, a comprehensive and integrated strategy is required. This includes ecosystem strengthening, human resource development, financial support and access to capital, market expansion and promotion, and diversification of raw material sources. The study offers crucial insights for policymakers and industry stakeholders to enhance the creative sector in both DKI Jakarta and Indonesia.
