@@ -1,6 +1,7 @@
 ---
 
 title: "Are we doing right by our remittance warriors?"
+layout: archive
 excerpt: "Are migrant workers truly treated well in Bangladesh? A mere 2.5% incentive on remitted money does not reflect......"
 date: 2024-11-07
 newspaper: "Dhaka Tribune"
