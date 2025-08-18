@@ -5,7 +5,8 @@ category: working paper
 permalink: /publication/workingpaper2
 excerpt: 'The creative industry has rapidly grown into a critical component of DKI Jakarta's economy. According to BPS data, it contributed.........'
 date: 2025-02-17
-venue: SSRN
+venue: 'SSRN'
+paperurl: " "
 citation: 'Ichsan, A. K. N., Fresky, M. F., Chowdhury, M. A., and Rahmawati, Y. (2025). &quot; Creative Synergies: an IRIO Analysis of Jakarta's Creative Industry and its Spillover Effects on National Economic Growth.&quot; <i>Working Paper</i>.'
 ---
 
