@@ -7,7 +7,6 @@ entries_layout: list
 author_profile: true
 ---
 
-## My Research Projects
 
 <ul>
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
