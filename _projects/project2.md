@@ -9,6 +9,7 @@ permalink: /projects/project2
 date: 2023-06-30
 collection: projects
 layout: project
+author_profile: true
 ---
 ## Executive Summary
 
