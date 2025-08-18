@@ -4,7 +4,7 @@ duration: "November 2022 – June 2023"
 client: "Association for Land Reform and Development (ALRD)"
 sample_size: "650 Questionnaire Survey, 16 FGDs, 43 KIIs, and 16 Case Stories"
 responsibilities: "Survey Tools design, Field Team Supervision, Data Analysis, and Report writing."
-excerpt: "Bangladesh is particularly vulnerable to the effects of climate change due to its distinctive location, flat topography, and dense population. Several research studies........"
+excerpt: "*Contributed to this project while working at Change Initiative*"
 permalink: /projects/project2
 date: 2023-06-30
 collection: projects
