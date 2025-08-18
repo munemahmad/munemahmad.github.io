@@ -4,7 +4,7 @@ duration: "October 2022 – June 2023"
 client: "OXFAM"
 sample_size: " 30 Semi-structured Questionnaire Survey, 14 KIIs, and 33 IDIs"
 responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
-excerpt: "Climate change is a major threat to human civilization, with two-thirds of global greenhouse gas emissions linked to burning fossil fuels for energy. The Intergovernmental Panel on ........"
+excerpt: "*Contributed to this project while working at Change Initiative*"
 permalink: /projects/project4
 date: 2023-06-30
 collection: projects
