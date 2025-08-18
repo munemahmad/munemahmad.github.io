@@ -4,7 +4,7 @@ duration: "December 2022 – February 2023"
 client: "OXFAM"
 sample_size: "To be included"
 responsibilities: "Survey Tools design, Developing ODK, and Data Analysis."
-excerpt: "to be included..........."
+excerpt: "*Contributed to this project while working at Change Initiative*"
 permalink: /projects/project3
 date: 2023-02-28
 collection: projects
