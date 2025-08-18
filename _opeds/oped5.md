@@ -2,10 +2,12 @@
 
 title: "Are we doing right by our remittance warriors?"
 layout: archive
+collection: opeds
 excerpt: "Are migrant workers truly treated well in Bangladesh? A mere 2.5% incentive on remitted money does not reflect......"
 date: 2024-11-07
 newspaper: "Dhaka Tribune"
 read_online: "https://www.dhakatribune.com/opinion/op-ed/364479/are-we-doing-right-by-our-remittance-warriors"
+author_profile: true
 ---
 
 Are migrant workers truly treated well in Bangladesh? A mere 2.5% incentive on remitted money does not reflect the appreciation their contributions deserve. Most of these remittance earners work on contracts in the Middle East, Southeast Asia, and Europe. When they return home permanently, many have only a small amount of cash, with some even coming back with disabilities or, worse, even deceased. Discussing their migration rights is a critical issue, but today, we turn our attention to their social security.
