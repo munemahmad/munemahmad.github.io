@@ -32,7 +32,7 @@ Work experience
 * May 2022- June 2023: Research Assistant
   * Change Initiative 
 
-* May 2022- June 2023: Graduate Research Assistant
+* June 2020- April 2022: Graduate Research Assistant
   * Department of Economics, Comilla University 
 
   
