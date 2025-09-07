@@ -9,6 +9,8 @@ redirect_from:
 
 You can download my latest CV here:  
 [📄 Download CV (PDF)](/files/CV.pdf)
+You can download my latest resume here:  
+[📄 Download Resume (PDF)](/files/Resume.pdf)
 
 {% include base_path %}
 
@@ -21,27 +23,19 @@ Work experience
 ======
 * January 2025- Present: Research Fellow
   * Bangladesh Institute of Social Research Trust
-  * Duties include: Updates and improvements to the template
-  * Supervisor: Dr. Md. Murad Ahmad
 
 * July 2024 – January 2025: Quantitative Researcher 
   * Impact Research Team, Work on Climate  
-  * Duties include: Updates and improvements to the template
  
 * June 2023- December 2024: Research Associate
   * Bangladesh Institute of Social Research Trust
-  * Duties included: Merging pull requests
-  * Supervisor: Dr. Md. Murad Ahmad
 
 * May 2022- June 2023: Research Assistant
   * Change Initiative 
-  * Duties included: Tagging issues
-  * Supervisor: Md. Khurshed Alam
 
 * May 2022- June 2023: Graduate Research Assistant
   * Department of Economics, Comilla University 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Dr. Kazi Mohammed Kamal Uddin
+
   
 Skills
 ======
