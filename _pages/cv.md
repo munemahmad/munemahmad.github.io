@@ -7,11 +7,9 @@ redirect_from:
   - /resume
 ---
 
-You can download my latest CV here:  
-[📄 Download CV (PDF)](/files/CV.pdf)
+You can download my latest CV from here:  [📄 Download CV (PDF)](/files/CV.pdf)
 
-You can download my latest resume here:  
-[📄 Download Resume (PDF)](/files/Resume.pdf)
+You can download my latest resume from here:  [📄 Download Resume (PDF)](/files/Resume.pdf)
 
 {% include base_path %}
 
