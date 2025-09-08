@@ -6,7 +6,7 @@ lang: "STATA"
 date: 2025-02-28
 ---
 
-You can read the abstract from here:  [👀📖✨ Read](/projects/project10.md)
+You can read the abstract from here:  [👀📖✨ Read](/projects/project10)
 
 
 ```stata
