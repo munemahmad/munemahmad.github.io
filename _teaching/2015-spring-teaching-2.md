@@ -1,12 +1,14 @@
 ---
 title: "Teaching Assistant & Research Mentor"
 collection: teaching
-type: "June 2020- April 2022"
 permalink: /teaching/Teaching-Assistant
-venue: "Cumilla University, Department of Economics"
+venue: "Comilla University, Department of Economics"
+date: 2022-04-30
 location: "Cumilla, Bangladesh"
 ---
 Gained experience as a Teaching Assistant and Research Mentor while working under Dr. Kazi Mohammed Kamal Uddin as a Graduate Research Assistant.
+
+Duration: June 2020- April 2022
 
 ## Experience as Teaching Assistant
   *  Assisted in developing course materials for Statistics, Econometrics, and International Trade I & II.
