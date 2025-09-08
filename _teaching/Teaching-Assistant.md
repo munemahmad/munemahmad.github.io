@@ -17,12 +17,12 @@ Duration: June 2020- April 2022
 
 ## Experience as Research Mentor
 
-| Entry            |                                   Mentee   1                                        |                                     Mentee 2                          |
-| --------         |-------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| Thesis Title     | Factors Affecting the Exchange Rate in the Aspect of Bangladesh: An ARDL Approach   | The Impact of Fiscal Policy on Economic Growth during the Economic Crisis                                                                                                                   Period: An Empirical Study in the  Context of Bangladesh             |
-| Name             | Jebunnesa Binte Zaman                                                               | Sumaiya Akter                                                         |
-| ID               | 22102041                                                                            | 22102049                                                              |
-| Session          | 2020-21                                                                             | 2020-21                                                               |
+| Entry             |                                   Mentee   1                                        |                                     Mentee 2                          |
+| --------          |-------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Thesis Title      | Factors Affecting the Exchange Rate in the Aspect of Bangladesh: An ARDL Approach   | The Impact of Fiscal Policy on Economic Growth during the Economic Crisis                                                                                                                   Period: An Empirical Study in the  Context of Bangladesh             |
+| Name              | Jebunnesa Binte Zaman                                                               | Sumaiya Akter                                                         |
+| ID                | 22102041                                                                            | 22102049                                                              |
+| Session           | 2020-21                                                                             | 2020-21                                                               |
 
 
 ### Mentorship Responsibilities: 
