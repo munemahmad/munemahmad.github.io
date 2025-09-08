@@ -1,13 +1,14 @@
 ---
 title: "Freelance Educator"
 collection: teaching
+type: "School Level"
 permalink: /teaching/Freelance-Educator
 venue: "Tutoring Center"
 date: 2022-04-30
 location: "Cumilla, Bangladesh"
 ---
 
-"Tutored grades 6–12 in English, Math, and Economics, designing lessons and tracking progress to improve exam readiness."
+Tutored grades 6–12 in English, Math, and Economics, designing lessons and tracking progress to improve exam readiness.
 
 Duration: March 2016 – April 2022
 
