@@ -3,12 +3,32 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+toc: true
 ---
 
 {% include base_path %}
 
+<div class="container">
+  <div class="row">
+    <!-- Left column: Portfolio items -->
+    <div class="col-md-8">
+      {% for post in site.portfolio %}
+        {% include archive-single.html %}
+      {% endfor %}
+    </div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+    <!-- Right column: On this page / TOC -->
+    <div class="col-md-4">
+      {% if page.toc %}
+        <div id="on-this-page">
+          <h4>On this page</h4>
+          <ul>
+            {% for post in site.portfolio %}
+              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
