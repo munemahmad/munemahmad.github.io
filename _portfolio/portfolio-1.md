@@ -1,6 +1,6 @@
 ---
-title: "STATA Codes for "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "STATA Codes for for Finding the link Between	International Migration and Climate Change: Salinity, Inundation, and River-erosion Affected	areas in Bangladesh"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_image1.png'>"
 collection: portfolio
 ---
 
