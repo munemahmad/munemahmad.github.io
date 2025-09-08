@@ -2,6 +2,8 @@
 title: "International Migration and Climate Change"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_image1.png'>"
 collection: portfolio
+lang: "STATA"
+date: 2025-02-28
 ---
 
 You can read the abstract from here:  [👀📖✨ Read](/projects/project10.md)
