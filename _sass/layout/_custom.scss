@@ -1,6 +1,26 @@
-#on-this-page {
+/* _sass/layout/_custom.scss */
+.page-wrapper {
+  display: flex;
+  gap: 2rem;
+}
+
+.main-content {
+  flex: 3;
+}
+
+.sidebar {
+  flex: 1;
   position: sticky;
-  top: 20px;
+  top: 2rem;
+  background: #f9f9f9;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  height: fit-content;
+}
+
+.sidebar h3 {
+  margin-top: 0;
 }
 
 html {
