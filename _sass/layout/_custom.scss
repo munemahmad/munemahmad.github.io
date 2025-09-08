@@ -35,3 +35,11 @@
   font-size: 0.9rem;
   font-weight: 500;
 }
+
+/* Portfolio excerpt images */
+.portfolio-layout .post-image {
+  max-width: 150px;  /* adjust width as needed */
+  height: auto;      /* maintain aspect ratio */
+  display: block;    /* optional */
+  margin-bottom: 0.5rem; /* optional spacing under image */
+}
