@@ -1,6 +1,7 @@
 ---
 title: "Teaching Assistant & Research Mentor"
 collection: teaching
+type: "Undergraduate & Graduate Level" 
 permalink: /teaching/Teaching-Assistant
 venue: "Comilla University, Department of Economics"
 date: 2022-04-30
