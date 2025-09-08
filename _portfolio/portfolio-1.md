@@ -1,6 +1,6 @@
 ---
 title: "International Migration and Climate Change"
-excerpt: "Some values are hidden due to the client's restriction<br/><img src='/images/portfolio_image1.png'>"
+excerpt: "Some values are hidden due to the client's restriction.<br/><img src='/images/portfolio_image1.png'>"
 collection: portfolio
 lang: "STATA"
 date: 2025-02-28
