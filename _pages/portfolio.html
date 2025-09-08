@@ -8,27 +8,61 @@ toc: true
 
 {% include base_path %}
 
-<div class="container">
-  <div class="row">
-    <!-- Left column: Portfolio items -->
-    <div class="col-md-8">
-      {% for post in site.portfolio %}
-        {% include archive-single.html %}
-      {% endfor %}
-    </div>
+---
+layout: default
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
 
-    <!-- Right column: On this page / TOC -->
-    <div class="col-md-4">
-      {% if page.toc %}
-        <div id="on-this-page">
-          <h4>On this page</h4>
-          <ul>
-            {% for post in site.portfolio %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      {% endif %}
-    </div>
+<div class="page-wrapper">
+  <div class="main-content">
+    <h1>{{ page.title }}</h1>
+
+    {% assign stata_projects = site.portfolio | where: "lang", "STATA" %}
+    {% assign r_projects = site.portfolio | where: "lang", "R" %}
+    {% assign python_projects = site.portfolio | where: "lang", "Python" %}
+
+    <h2 id="stata">STATA</h2>
+    {% for post in stata_projects %}
+      {% include archive-single.html %}
+    {% endfor %}
+
+    <h2 id="r">R</h2>
+    {% for post in r_projects %}
+      {% include archive-single.html %}
+    {% endfor %}
+
+    <h2 id="python">Python</h2>
+    {% for post in python_projects %}
+      {% include archive-single.html %}
+    {% endfor %}
   </div>
+
+  <aside class="sidebar" id="on-this-page">
+    <h3>On this page</h3>
+    <ul>
+      <li><a href="#stata">STATA</a></li>
+      <ul>
+        {% for post in stata_projects %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <li><a href="#r">R</a></li>
+      <ul>
+        {% for post in r_projects %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <li><a href="#python">Python</a></li>
+      <ul>
+        {% for post in python_projects %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </ul>
+  </aside>
 </div>
+
