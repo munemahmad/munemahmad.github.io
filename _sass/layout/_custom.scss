@@ -31,9 +31,12 @@
   text-decoration: underline;
 }
 
-.portfolio-layout .portfolio-item-title {
-  font-size: 0.9rem;
-  font-weight: 500;
+/* Portfolio project titles */
+.portfolio-layout h2,
+.portfolio-layout h3 {
+  font-size: 0.9rem;   /* adjust smaller */
+  font-weight: 500;    /* optional */
+  margin-bottom: 0.25rem; /* optional: less space under title */
 }
 
 /* Portfolio excerpt images */
