@@ -1,5 +1,5 @@
 ---
-title: <h3 style="font-size:0.9rem; font-weight:500; margin-bottom:0.25rem;"> "International Migration and Climate Change"</h3>
+title: International Migration and Climate Change"
 excerpt: "Some values are hidden due to the client's restriction.<br/><img src='/images/portfolio_image1.png' style="max-width:150px; height:auto;">"
 collection: portfolio
 lang: "STATA"
