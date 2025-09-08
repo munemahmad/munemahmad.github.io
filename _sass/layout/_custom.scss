@@ -1,34 +1,32 @@
-/* Portfolio layout styling */
-.portfolio-layout {
-  display: grid;
-  grid-template-columns: 250px 1fr 250px; /* left, center, right widths */
-  gap: 2rem;
-}
-
-/* Fix left author profile */
-.left-profile {
-  position: sticky;
-  top: 2rem;
-  align-self: start;
-  height: fit-content;
-}
-
-/* Make sidebar sticky */
-.sidebar {
-  position: sticky;
-  top: 2rem;
+/* Compact Table of Contents */
+.toc {
+  margin-bottom: 1rem;
+  padding: 0.5rem 0.75rem;
   background: #f9f9f9;
-  padding: 1rem;
   border: 1px solid #ddd;
-  border-radius: 8px;
-  height: fit-content;
+  border-radius: 6px;
+  font-size: 0.85rem; /* Smaller text */
+  line-height: 1.3;
 }
 
-.sidebar h3 {
+.toc h2 {
   margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1rem; /* Smaller heading */
+  font-weight: 600;
 }
 
-/* Smooth scrolling */
-html {
-  scroll-behavior: smooth;
+.toc ul {
+  margin: 0;
+  padding-left: 1rem;
+  list-style-type: disc;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.toc a:hover {
+  text-decoration: underline;
 }
