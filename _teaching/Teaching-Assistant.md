@@ -25,7 +25,7 @@ Duration: June 2020- April 2022
 | Session           | 2020-21                                                                             | 2020-21                                                               |
 
 
-### Mentorship Responsibilities: 
+### Mentorship Responsibilities:
     *Supporting  the mentees on appropriate research methods and techniques for data collection, analysis, and interpretation, considering the nature of the research questions and       available data sources.
     *Help them understand relevant econometric methodologies as per the studies’ requirements 
     *Regularly review and provide constructive feedback on the mentees' work in progress, including drafts of research chapters, data analysis, and findings, to help improve the              quality and rigor of the research.
