@@ -1,12 +1,10 @@
 ---
-title: "Portfolio item number 1"
+title: "STATA Codes for "
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-<div class="code-block">
-<pre>
-
+```stata
 ** For checking current directory
 
 pwd
@@ -483,6 +481,5 @@ log close
 save "data30012025.dta", replace
 export excel "data30012025.xlsx" , firstrow(variables) replace
 
-</pre>
-</div>
+```
 
