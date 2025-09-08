@@ -1,71 +1,43 @@
 ---
-layout: default
+layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
 
-<div class="portfolio-layout">
-  <!-- Left: Author Profile -->
-  <aside class="left-profile">
-    {% include author-profile.html %}
-  </aside>
+{% include base_path %}
 
-  <!-- Center: Portfolio Content -->
-  <div class="main-content">
-    <h1>{{ page.title }}</h1>
+<h1>{{ page.title }}</h1>
 
-    {% assign stata_projects = site.portfolio | where: "lang", "STATA" %}
-    {% assign r_projects = site.portfolio | where: "lang", "R" %}
-    {% assign python_projects = site.portfolio | where: "lang", "Python" %}
-
-    <!-- STATA Section -->
-    <h2 id="stata">STATA</h2>
-    {% for post in stata_projects %}
-      <a id="{{ post.slug }}"></a>
-      {% include archive-single.html %}
-    {% endfor %}
-
-    <!-- R Section -->
-    <h2 id="r">R</h2>
-    {% for post in r_projects %}
-      <a id="{{ post.slug }}"></a>
-      {% include archive-single.html %}
-    {% endfor %}
-
-    <!-- Python Section -->
-    <h2 id="python">Python</h2>
-    {% for post in python_projects %}
-      <a id="{{ post.slug }}"></a>
-      {% include archive-single.html %}
-    {% endfor %}
-  </div>
-
-  <!-- Right: Sidebar -->
-  <aside class="sidebar" id="on-this-page">
-    <h3>On this page</h3>
-    <ul>
-      <li><a href="#stata">STATA</a>
-        <ul>
-          {% for post in stata_projects %}
-            <li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      <li><a href="#r">R</a>
-        <ul>
-          {% for post in r_projects %}
-            <li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      <li><a href="#python">Python</a>
-        <ul>
-          {% for post in python_projects %}
-            <li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-    </ul>
-  </aside>
+<!-- On This Page (Table of Contents) -->
+<div class="toc" style="margin-bottom: 2rem; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
+  <h2>On This Page</h2>
+  <ul>
+    <li><a href="#stata">STATA</a></li>
+    <li><a href="#r">R</a></li>
+    <li><a href="#python">Python</a></li>
+  </ul>
 </div>
+
+<!-- Grouped Projects -->
+{% assign stata_projects = site.portfolio | where: "lang", "STATA" %}
+{% assign r_projects = site.portfolio | where: "lang", "R" %}
+{% assign python_projects = site.portfolio | where: "lang", "Python" %}
+
+<!-- STATA -->
+<h2 id="stata">STATA</h2>
+{% for post in stata_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- R -->
+<h2 id="r">R</h2>
+{% for post in r_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- Python -->
+<h2 id="python">Python</h2>
+{% for post in python_projects %}
+  {% include archive-single.html %}
+{% endfor %}
