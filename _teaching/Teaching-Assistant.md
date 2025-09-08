@@ -30,18 +30,3 @@ Duration: June 2020- April 2022
     * Help them understand relevant econometric methodologies as per the studies’ requirements 
     * Regularly review and provide constructive feedback on the mentees' work in progress, including drafts of research chapters, data analysis, and findings, to help improve the              quality and rigor of the research.
 
-
-
-
-
-
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
