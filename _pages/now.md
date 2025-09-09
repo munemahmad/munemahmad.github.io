@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "What am I doing now!"
+title: "What I am doing now!"
 permalink: /now/
 author_profile: true
 ---
