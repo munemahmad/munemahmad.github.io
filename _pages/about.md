@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-*“The greatest challenge to any thinker is stating the problem in a way that will allow a solution.”*  
-                                                                                 – Bertrand Russell
+*“The greatest challenge to any thinker is stating the problem in a way that will allow a solution.”* – Bertrand Russell
 
 
 
