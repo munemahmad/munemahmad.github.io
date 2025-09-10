@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I’m Munem Ahmad Chowdhury, an aspiring Economist & Researcher"
+title: "* The greatest challenge to any thinker is stating the problem in a way that will allow a solution.” – Bertrand Russell *"
 author_profile: true
 redirect_from: 
   - /about/
