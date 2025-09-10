@@ -22,8 +22,8 @@ redirect_from:
 ## Research Interests
 
 - Behavioral Economics
-- Economics of Climate Change
 - Development Economics
+- Economics of Climate Change
 - Energy Economics
 
 
