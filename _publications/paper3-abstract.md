@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach."
-permalink: /publications/paper2-abstract/
+title: "Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation."
+permalink: /publications/paper3-abstract/
 author_profile: true
 ---
 
 
 ## Abstract
 
-This study is designed to investigate the role of Foreign Direct Investment (FDI) in overall job creation in Bangladesh where annual time series data is used spanning from 1991 to 2018. The role of gross domestic products (GDP) and trade openness on employment level are also addressed. Johansen-Juselius cointegration and Vector error correction model are performed to check long run relationship and short run dynamics among the variables. The findings show that there exists co-integrating relations among the variables. Both FDI and GDP have significant positive effect on employment but trade openness possess the negative impact on employment in the long run. But FDI is negatively related with employment in the short run. This paper suggests to concentrate on making efficient policies to attract investors in green field investment which means investing for the establishment of new firms to create job opportunities in a large scale and to give the opportunity and logistic support to the native producers to produce more import substituted goods for reducing import dependence tendency. 
+Sustainable development is the goal of every nation. For this reason, achieving rapid and continuous economic growth is imperative and steps should be taken to play a strong role by identifying and accelerating the performance of the areas that affect it the most. This paper explores the role of external financial means of implementation (MoI) in amplifying the economic growth of Bangladesh for the period 1990-2018. Two thoughts are specifically canvassed here: Sole contribution of export and each of the other MoI in achieving higher economic growth; total export earning or the aggregate amount of other MoI, which contribute the most. Co-integrating relations are determined by ARDL Bound test as variables are stationary at different level. In the long run, economic growth increase by 0.60, 0.06 and 0.38 units for every 1 unit of export, FDI and ODA increase. Money earned from remittances plays an insignificant negative role in GDP due to lack of investment and inappropriate consumption during that period. Export play the most effective role to boost economic growth as it contributes 0.05% more than aggregate value of other MoIs. The solidity of the results has been confirmed through various diagnostic tests.  
