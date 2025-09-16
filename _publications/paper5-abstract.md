@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach."
-permalink: /publications/paper2-abstract/
+title: "Interaction of market size, inflation and trade openness on foreign direct investment inflows in India, China and Japan: panel dynamic analysis."
+permalink: /publications/paper5-abstract/
 author_profile: true
 ---
 
 
 ## Abstract
 
-This study is designed to investigate the role of Foreign Direct Investment (FDI) in overall job creation in Bangladesh where annual time series data is used spanning from 1991 to 2018. The role of gross domestic products (GDP) and trade openness on employment level are also addressed. Johansen-Juselius cointegration and Vector error correction model are performed to check long run relationship and short run dynamics among the variables. The findings show that there exists co-integrating relations among the variables. Both FDI and GDP have significant positive effect on employment but trade openness possess the negative impact on employment in the long run. But FDI is negatively related with employment in the short run. This paper suggests to concentrate on making efficient policies to attract investors in green field investment which means investing for the establishment of new firms to create job opportunities in a large scale and to give the opportunity and logistic support to the native producers to produce more import substituted goods for reducing import dependence tendency. 
+In the world of competitiveness, FDI is considered as a macroeconomic component, and that developing countries are introducing it as a substitute for their larger investment gaps in policies. Fast-growing countries like China, India, and Japan are also no exception to this. Findings from the study confirm the existence of a long-term relationship among the variables. The long-run dynamic equation shows a greater degree of openness and an expansion of market size attracts more FDI in the long run, whilst raising the inflation rate discourages foreigners from investing. In the short run, none of the variables have any sort of significant relationship with the Granger causality test, giving an interesting insight that unidirectional causalities exist with the remaining variables, which run from FDI to trade openness. In a nutshell, FDI helps to sustain the economies of these countries through its multiplier impact on other macroeconomic factors. 
