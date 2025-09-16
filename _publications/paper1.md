@@ -1,7 +1,7 @@
 ---
 title: "Uddin, K. M. K., & Chowdhury, M. A. (2020). Impact of FDI on Employment Level in Bangladesh: A VECM Approach. <i>International Journal of Applied Economics, Finance and Accounting</i>, 8(1), 30-37."
 collection: publications
-category: manuscripts
+category: articles
 permalink: /publication/paper1
 date: 2020-06-28
 venue: 'IOSR Journal of Research & Method in Education'
