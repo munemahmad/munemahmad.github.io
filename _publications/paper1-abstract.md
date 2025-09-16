@@ -2,6 +2,7 @@
 layout: page
 title: "Facilitating higher education: differential status of public and private universities in Bangladesh"
 permalink: /publications/paper1-abstract/
+author_profile: true
 ---
 
 
