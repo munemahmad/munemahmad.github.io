@@ -1,5 +1,5 @@
 ---
-title: "Uddin, K. M. K., & Chowdhury, M. A. (2020). Impact of FDI on Employment Level in Bangladesh: A VECM Approach. <i>International Journal of Applied Economics, Finance and Accounting</i>, 8(1), 30-37."
+title: "Mazumder, S., & Chowdhury, M. A. (2020). &quot; Facilitating higher education: differential status of public and private universities in Bangladesh.&quot; <i>IOSR Journal of Research & Method in Education</i>. 10(3), 14-23."
 collection: publications
 category: articles
 permalink: /publication/paper1
