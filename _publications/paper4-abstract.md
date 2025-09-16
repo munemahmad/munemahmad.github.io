@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach."
-permalink: /publications/paper2-abstract/
+title: "Disintegrated Impact of Trade Openness on Income Inequality: Empirical Evidence from Bangladesh."
+permalink: /publications/paper4-abstract/
 author_profile: true
 ---
 
 
 ## Abstract
 
-This study is designed to investigate the role of Foreign Direct Investment (FDI) in overall job creation in Bangladesh where annual time series data is used spanning from 1991 to 2018. The role of gross domestic products (GDP) and trade openness on employment level are also addressed. Johansen-Juselius cointegration and Vector error correction model are performed to check long run relationship and short run dynamics among the variables. The findings show that there exists co-integrating relations among the variables. Both FDI and GDP have significant positive effect on employment but trade openness possess the negative impact on employment in the long run. But FDI is negatively related with employment in the short run. This paper suggests to concentrate on making efficient policies to attract investors in green field investment which means investing for the establishment of new firms to create job opportunities in a large scale and to give the opportunity and logistic support to the native producers to produce more import substituted goods for reducing import dependence tendency. 
+There have been many studies on the relationship between trade and income inequality, but very few of them have distinguished the idea of trade by export and import. For this reason this study is conducted to see how the income inequality of Bangladesh get impacted with the presence of import and export separately. ARDL bound test is used to inspect whether they possess long run relation with income inequality for the period of 1975 to 2016. Thereupon export has been found to be widening the income gap in the long run. Though import improves the situation by abating the gap, it is not significant enough. Besides that other imperative macroeconomic variables are used to condense the omitted variable bias and their outcomes akin to the theory for developing country aspect. Furthermore, models like FMOLS, DOLS and CCR are used for ensuring the robustness of the result and other diagnostic tests support the validity of the result. Moreover policies related to labor welfare need to be set in a manner so that minimum wage allows a worker to lead a healthy life which will help keeping him or her productive. In addition, correspondent authority should frame the policies to diversify the export sector to give the opportunity to small entrepreneurs a chance to enter by providing the convenient environment.  
