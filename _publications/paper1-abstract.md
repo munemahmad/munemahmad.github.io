@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Facilitating higher education: differential status of public and private universities in Bangladesh"
-permalink: /publication/paper1-abstract
+permalink: /publication/paper1-abstract/
 ---
 
 
