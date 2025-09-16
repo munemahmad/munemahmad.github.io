@@ -342,6 +342,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+publication_category:
+  articles:
+    title: "Articles"
+  working-papers:
+    title: "Working Papers"
+  work-in-progress:
+    title: "Work in Progress"
+
+  
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
