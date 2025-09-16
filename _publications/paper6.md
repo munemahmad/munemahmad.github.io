@@ -1,13 +1,14 @@
 ---
-title: "Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries"
+title: "Idowu, A., Ohikhuare, O. M., & Chowdhury, M. A. (2023). Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries. <i>Quantitative Finance and Economics</i>. 7(1), 165-186."
 collection: publications
-category: manuscripts
+category: articles
 permalink: /publication/paper6
-excerpt: 'This study investigated the effect of Industrialization on carbon emissions through energy consumption for a panel of.........'
 date: 2023-04-30
 venue: 'Quantitative Finance and Economics'
-paperurl: 'http://munemahmadchowdhury.github.io/files/paper6.pdf'
-citation: 'Idowu, A., Ohikhuare, O. M., & Chowdhury, M. A. (2023). &quot; Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries.&quot; <i>Quantitative Finance and Economics</i>. 7(1), 165-186.'
+paperurl: 'http://munemahmad.github.io/files/paper6.pdf'
+journalurl: 'https://www.aimspress.com/article/doi/10.3934/QFE.2023009'  
+abstracturl: '/publications/paper6-abstract/'
+citation: 'Idowu, A., Ohikhuare, O. M., & Chowdhury, M. A. (2023). Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries. <i>Quantitative Finance and Economics</i>. 7(1), 165-186.'
 ---
 
-This study investigated the effect of Industrialization on carbon emissions through energy consumption for a panel of eight Organizationof the Petroleum Exporting Countries (OPEC) and nine High Industrialised Countries over the period 1985 to 2020; the study employs the first generation and second-generation Unit root tests. The study further adopts the use of the Panel Autoregressive Distributed Lag Model, and Common Correlated Effect pooled mean group to estimate the parameters of the model for OPEC countries and High Industrialised Countries, respectively. In addition, the Dumitrescu-Hurlin Granger causality test is conducted to infer the direction of causality among the variables. The causality test result reveals that, in OPEC, energy consumed during industrial activity is not enough to cause carbon emission and carbon emission does not cause industrialisation to interact with energy consumption. Also, for highly industrialised countries, interaction of energy consumption and industrialization causes carbon emission, but carbon emission does not cause the interaction of energy consumption and industrialization. The estimated model shows that the interactive effect of Industrialization and energy consumption has no significant influence on carbon emissions in OPEC countries in the short and long run. In contrast, foreign direct investment and economic growth have a positive and significant effect on carbon emissions in the short run. However, for highly industrialised countries the study found that the interactive effect of energy industrialization and energy consumption has a positive and significant effect on carbon emissions in the short run. It is apparent from the study that energy consumption for industrial activities, particularly in highly industrialised countries, causes carbon emission and such policy makers should formulate policy that necessitatethe use of green energy for industrial activities to improve environmental quality.  
+
