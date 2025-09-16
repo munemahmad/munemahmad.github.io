@@ -46,3 +46,17 @@
   display: block;    /* optional */
   margin-bottom: 0.5rem; /* optional spacing under image */
 }
+
+/* ================================
+   Import Roboto font
+================================== */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* ================================
+   Apply Roboto globally
+================================== */
+body, h1, h2, h3, h4, h5, h6, p, a, li, span, strong, em {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+
