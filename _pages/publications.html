@@ -29,22 +29,22 @@ author_profile: true
     </h2>
     <hr/>
 
-<ul>
-{% for pub in site.publications reversed %}
-  <li style="margin-bottom: 1rem;">
-    {{ pub.citation }}
-    <br/>
-    {% if pub.abstracturl %}
-      <a href="{{ pub.abstracturl }}">Abstract</a> |
-    {% endif %}
-    {% if pub.paperurl %}
-      <a href="{{ pub.paperurl }}">Download Full Paper</a> |
-    {% endif %}
-    {% if pub.journalurl %}
-      <a href="{{ pub.journalurl }}">Find it in Journal</a>
-    {% endif %}
-  </li>
+    <ul>
+    {% for pub in pubs reversed %}
+      <li style="margin-bottom: 1rem;">
+        {{ pub.citation }}
+        <br/>
+        {% if pub.abstracturl %}
+          <a href="{{ pub.abstracturl }}">Abstract</a> |
+        {% endif %}
+        {% if pub.paperurl %}
+          <a href="{{ pub.paperurl }}">Download Full Paper</a> |
+        {% endif %}
+        {% if pub.journalurl %}
+          <a href="{{ pub.journalurl }}">Find it in Journal</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  {% endif %}
 {% endfor %}
-</ul>
-
-   
