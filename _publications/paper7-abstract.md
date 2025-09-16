@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach."
-permalink: /publications/paper2-abstract/
+title: "Exploring the Dynamics of Economic Instability: An Analysis of the Interplay between Consumer Spending, Consumer Confidence, and Macroeconomic Factors."
+permalink: /publications/paper7-abstract/
 author_profile: true
 ---
 
 
 ## Abstract
 
-This study is designed to investigate the role of Foreign Direct Investment (FDI) in overall job creation in Bangladesh where annual time series data is used spanning from 1991 to 2018. The role of gross domestic products (GDP) and trade openness on employment level are also addressed. Johansen-Juselius cointegration and Vector error correction model are performed to check long run relationship and short run dynamics among the variables. The findings show that there exists co-integrating relations among the variables. Both FDI and GDP have significant positive effect on employment but trade openness possess the negative impact on employment in the long run. But FDI is negatively related with employment in the short run. This paper suggests to concentrate on making efficient policies to attract investors in green field investment which means investing for the establishment of new firms to create job opportunities in a large scale and to give the opportunity and logistic support to the native producers to produce more import substituted goods for reducing import dependence tendency. 
+This study empirically evaluates the effect of consumer confidence on consumer spending in Nigeria. Relatively little attention has been paid to the existence of a long-run relationship between consumer confidence and consumer spending in Nigeria, and this study aims to contribute to the existing literature in this regard by utilising quarterly data spanning from 2009 to 2023. Examining the relationship through the autoregressive distributed lag (ARDL) model, it was found that consumer confidence, money supply, and inflation have a significantly positive impact on consumer spending, while interest rates possess an adverse relationship with consumer spending in Nigeria in the long run. The findings of the study recommend that good infrastructure, ease of doing business, a reduction of tax rate on everyday purchasing are key contributors to consumers’ optimism. Additionally, efficient responses to economic shocks and effective policy reformation according to the shift of the dynamic financial world are also crucial to making the economy well-run and maintaining the level of consumers’ confidence. 
