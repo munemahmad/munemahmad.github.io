@@ -47,18 +47,92 @@ Work experience
     </ul>
     </details>
 
-* July 2024 – January 2025: Quantitative Researcher 
-  * Impact Research Team, Work on Climate  
+### July 2024 – January 2025: Impact Research Team, Work on Climate
+   *Quantitative Researcher*
+   <details>
+    <summary><strong>Responsibilities</strong></summary>
+    <ul>
+      <li>Led baseline survey design and field supervision for climate-related research.</li>
+      <li>Conducted quantitative analysis using STATA and R.</li>
+      <li>Prepared research reports and policy briefs for donors.</li>
+    </ul>
+    </details>    
+
+   <details>
+    <summary><strong>Key Contribution</strong></summary>
+    <ul>
+      <li>Assisted the team lead in designing the survey tool to meet quarterly survey targets.</li>
+      <li>Supported survey implementation by developing sampling strategies, administering surveys, and coordinating distribution to 3,000 recipients via email and 31,000 via Slack.</li>
+      <li>Performed quantitative analysis of survey data, including data cleaning and summarization in Google Sheets, to address key research questions.</li>
+    </ul>
+    </details>
+
  
-* June 2023- December 2024: Research Associate
-  * Bangladesh Institute of Social Research Trust
+### June 2023- December 2024: Bangladesh Institute of Social Research Trust
+   *Research Associate* 
+   <details>
+    <summary><strong>Responsibilities</strong></summary>
+    <ul>
+      <li>Led baseline survey design and field supervision for climate-related research.</li>
+      <li>Conducted quantitative analysis using STATA and R.</li>
+      <li>Prepared research reports and policy briefs for donors.</li>
+    </ul>
+    </details>    
 
-* May 2022- June 2023: Research Assistant
-  * Change Initiative 
+   <details>
+    <summary><strong>Key Contribution</strong></summary>
+    <ul>
+      <li>Executed three research projects for TdH Netherlands, Chattogram City Corporation, and Ministry of Planning of GoB,contributing to methodology development, data collection, analysis, and reporting. </li>
+      <li>Facilitated an eight-day training for 42 enumerators, supervised the month-long data collection and managed field logistics for the End-line Evaluation of BRAC’s Gender Responsive Education and Skill Programme in Chattogram Hill Tracts (a hard-to-reach hilly area).</li>
+      <li>Authored two peer-reviewed journal articles and five op-eds in national dailies, enhancing the organization's academic presence.</li>
+      <li>Reviewed 16 research articles and organized two national-level conferences, fostering academic discourse.</li>
+      <li>Reviewed 16 research articles and organized two national-level conferences, fostering academic discourse.</li>
+      <li>Secured a $20,000 research grant from Bangladesh Police through a successful proposal for a study on public traffic awareness, collaborating with a co-researcher in proposal development.</li>
+    </ul>
+    </details>
 
-* June 2020- April 2022: Graduate Research Assistant
-  * Department of Economics, Comilla University 
 
+### May 2022- June 2023: Change Initiative
+  *Research Assistant*  
+   <details>
+    <summary><strong>Responsibilities</strong></summary>
+    <ul>
+      <li>Led baseline survey design and field supervision for climate-related research.</li>
+      <li>Conducted quantitative analysis using STATA and R.</li>
+      <li>Prepared research reports and policy briefs for donors.</li>
+    </ul>
+    </details>    
+
+   <details>
+    <summary><strong>Key Contribution</strong></summary>
+    <ul>
+      <li>Completed five research and consultancy projects for WIN, European Climate Foundation, ALRD, TI Maldives and Oxfam, assisting PI in design survey tools, data cleaning & analysis, policy analysis, and report writing.</li>
+      <li>Developed ODK forms for household data collection and managed databases for other projects.</li>
+      <li>Organized the Dhaka Renewable Energy and Finance Talk (DREFT), facilitating international discourse on renewable energy financing, with participation from over 300 stakeholders.</li>
+      <li>Secured a $15,000 consultancy from OXFAM Bangladesh through a competitive proposal process for a comprehensive study on climate risk insurance, supporting the PI in proposal development.</li>
+    </ul>
+    </details>
+
+### June 2020- April 2022: Department of Economics, Comilla University 
+  *Graduate Research Assistant* 
+   <details>
+    <summary><strong>Responsibilities</strong></summary>
+    <ul>
+      <li>Led baseline survey design and field supervision for climate-related research.</li>
+      <li>Conducted quantitative analysis using STATA and R.</li>
+      <li>Prepared research reports and policy briefs for donors.</li>
+    </ul>
+    </details>    
+
+   <details>
+    <summary><strong>Key Contribution</strong></summary>
+    <ul>
+      <li>Contributed to a research project focusing on economic growth and external financial means of implementation, assisting PI in literature review, methodology development, data analysis, and report writing.</li>
+      <li>Published three research articles in peer-reviewed journals, expanding academic contributions and visibility.</li>
+      <li>Developed course materials and instructed STATA and R training sessions over two semesters, enhancing students' analytical skills.</li>
+      <li>Mentored two graduate students in econometrics, data analysis, and academic writing, supporting their thesis development and successful defense.</li>
+    </ul>
+    </details> 
   
 Skills
 ======
