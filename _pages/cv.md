@@ -16,14 +16,14 @@ You can download my latest resume from here:  [📄 Download Resume (PDF)](/file
 Education
 ======
 ### MSS in Economics, Comilla University, 2020
-    Position        : 9th out of 60
-    Thesis          : Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
-    Supervisor      : Professor Dr. M. Zakir Saadullah Khan
+Position        : 9th out of 60
+Thesis          : Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
+Supervisor      : Professor Dr. M. Zakir Saadullah Khan
    
 ### BSS in Economics, Comilla University, 2019 
-    Position        : 8th out of 60
-    Research Report : Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh
-    Supervisor      : Professor Dr. Kazi Mohammed Kamal Uddin
+Position        : 8th out of 60
+Research Report : Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh
+Supervisor      : Professor Dr. Kazi Mohammed Kamal Uddin
     
 Work experience
 ======
@@ -36,8 +36,13 @@ Work experience
       <li>Conducted quantitative analysis using STATA and R.</li>
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
+    <summary><strong>Responsibilities</strong></summary>
+    <ul>
+      <li>Led completion of a research project on climate-induced migration for BRAC, overseeing survey tool design, field supervision, data analysis, and report writing.</li>
+      <li>Mentored a team of 3 interns and junior researchers in developing research proposals and implementing studies.</li>
+      <li>Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development.</li>
+    </ul>
   </details>
-
 
 * July 2024 – January 2025: Quantitative Researcher 
   * Impact Research Team, Work on Climate  
