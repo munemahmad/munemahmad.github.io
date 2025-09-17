@@ -51,9 +51,34 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% assign categories = "articles,working-papers,work-in-progress" | split: "," %}
+
+{% for cat in categories %}
+  {% assign pubs = site.publications | where: "category", cat | where_exp: "post", "post.is_abstract != true" %}
+  {% if pubs.size > 0 %}
+    <h3>
+      {% if cat == "articles" %}
+        Articles
+      {% elsif cat == "working-papers" %}
+        Working Papers
+      {% elsif cat == "work-in-progress" %}
+        Work in Progress
+      {% endif %}
+    </h3>
+
+    <ul>
+    {% for post in pubs reversed %}
+      <li>
+        {% if cat == "work-in-progress" %}
+          <em>{{ post.authors }}</em>: {{ post.title }}
+        {% else %}
+          {{ post.citation }}
+        {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
   
   
 Teaching
