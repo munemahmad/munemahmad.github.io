@@ -15,19 +15,19 @@ You can download my latest resume from here:  [📄 Download Resume (PDF)](/file
 
 Education
 ======
-#### MSS in Economics, Comilla University, 2020
+### MSS in Economics, Comilla University, 2020
 * Position        : 9th out of 60
 * Thesis          : Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
 * Supervisor      : Professor Dr. M. Zakir Saadullah Khan
    
-#### BSS in Economics, Comilla University, 2019 
+### BSS in Economics, Comilla University, 2019 
 * Position        : 8th out of 60
 * Research Report : Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh
 * Supervisor      : Professor Dr. Kazi Mohammed Kamal Uddin
     
 Work experience
 ======
-#### January 2025- Present: Bangladesh Institute of Social Research Trust
+### January 2025- Present: Bangladesh Institute of Social Research Trust
    *Research Fellow*
    <details>
     <summary><strong>Responsibilities</strong></summary>
@@ -47,7 +47,7 @@ Work experience
     </ul>
     </details>
 
-#### July 2024 – January 2025: Impact Research Team, Work on Climate
+### July 2024 – January 2025: Impact Research Team, Work on Climate
    *Quantitative Researcher*
    <details>
     <summary><strong>Responsibilities</strong></summary>
@@ -68,7 +68,7 @@ Work experience
     </details>
 
  
-#### June 2023- December 2024: Bangladesh Institute of Social Research Trust
+### June 2023- December 2024: Bangladesh Institute of Social Research Trust
    *Research Associate* 
    <details>
     <summary><strong>Responsibilities</strong></summary>
@@ -92,7 +92,7 @@ Work experience
     </details>
 
 
-#### May 2022- June 2023: Change Initiative
+### May 2022- June 2023: Change Initiative
   *Research Assistant*  
    <details>
     <summary><strong>Responsibilities</strong></summary>
@@ -113,7 +113,7 @@ Work experience
     </ul>
     </details>
 
-#### June 2020- April 2022: Department of Economics, Comilla University 
+### June 2020- April 2022: Department of Economics, Comilla University 
   *Graduate Research Assistant* 
    <details>
     <summary><strong>Responsibilities</strong></summary>
@@ -133,6 +133,7 @@ Work experience
       <li>Mentored two graduate students in econometrics, data analysis, and academic writing, supporting their thesis development and successful defense.</li>
     </ul>
     </details> 
+    
 
 
 
@@ -155,7 +156,7 @@ Skills
 
 Publications
 ======
-#### Articles
+### Articles
 
 * Chowdhury, M. A., & Khan, M. Z. S. (2025). [Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis](https://munemahmad.github.io/files/paper8.pdf). *Journal of Tropical Futures*, 2 (1), 37-53. https://doi.org/10.1177/2753893124125649 
 * Idowu, A., Chowdhury, M. A., Nijhum, H. R., & Eniola, B. M. (2024). [Exploring the Dynamics of Economic Instability: An Analysis of the Interplay between Consumer Spending, Consumer Confidence, and Macroeconomic Factors](https://munemahmad.github.io/files/paper7.pdf). *International Journal of Empirical Economics*, 3 (1), 2450003. https://doi.org/10.1142/S2810943024500033
@@ -166,7 +167,7 @@ Publications
 * Uddin, K. M. K., & Chowdhury, M. A. (2020). [Impact of FDI on Employment Level in Bangladesh: A VECM Approach](https://munemahmad.github.io/files/paper2.pdf). *International Journal of Applied Economics, Finance and Accounting*, 8(1), 30-37. https://doi.org/10.33094/8.2017.2020.81.30.37 
 * Mazumder, S., & Chowdhury, M. A. (2020). [Facilitating higher education: differential status of public and private universities in Bangladesh](http://munemahmad.github.io/files/paper1.pdf). *IOSR Journal of Research & Method in Education (IOSR-JRME)*, 10(3), 14-23. https://doi.org/10.9790/7388-1003061423 
 
-#### Working Papers
+### Working Papers
 * Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). [Creative Synergies: An IRIO Analysis of Jakarta's Creative Industry and Its Spillover Effects on National Economic Growth](https://munemahmad.github.io/publications/workingpaper2-abstract/). *Working Paper*. 1-13.
 * Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). [Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/). *Working Paper*. 1-20.
 
