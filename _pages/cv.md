@@ -16,14 +16,14 @@ You can download my latest resume from here:  [📄 Download Resume (PDF)](/file
 Education
 ======
 ### MSS in Economics, Comilla University, 2020
-Position        : 9th out of 60
-Thesis          : Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
-Supervisor      : Professor Dr. M. Zakir Saadullah Khan
+* Position        : 9th out of 60
+* Thesis          : Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
+* Supervisor      : Professor Dr. M. Zakir Saadullah Khan
    
 ### BSS in Economics, Comilla University, 2019 
-Position        : 8th out of 60
-Research Report : Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh
-Supervisor      : Professor Dr. Kazi Mohammed Kamal Uddin
+* Position        : 8th out of 60
+* Research Report : Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh
+* Supervisor      : Professor Dr. Kazi Mohammed Kamal Uddin
     
 Work experience
 ======
@@ -133,7 +133,9 @@ Work experience
       <li>Mentored two graduate students in econometrics, data analysis, and academic writing, supporting their thesis development and successful defense.</li>
     </ul>
     </details> 
-  
+
+
+
 Skills
 ======
 * Eviews
@@ -145,6 +147,8 @@ Skills
 * ODK (XLS)
 * ArcGIS (Basic)
 * Github
+
+
 
 Publications
 ======
@@ -160,8 +164,8 @@ Publications
 * Mazumder, S., & Chowdhury, M. A. (2020). [Facilitating higher education: differential status of public and private universities in Bangladesh](http://munemahmad.github.io/files/paper1.pdf). *IOSR Journal of Research & Method in Education (IOSR-JRME)*, 10(3), 14-23. https://doi.org/10.9790/7388-1003061423 
 
 ## Working Papers
-Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). [Creative Synergies: An IRIO Analysis of Jakarta's Creative Industry and Its Spillover Effects on National Economic Growth](https://munemahmad.github.io/publications/workingpaper2-abstract/). *Working Paper*. 1-13.
-Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). [Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/). *Working Paper*. 1-20.
+* Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). [Creative Synergies: An IRIO Analysis of Jakarta's Creative Industry and Its Spillover Effects on National Economic Growth](https://munemahmad.github.io/publications/workingpaper2-abstract/). *Working Paper*. 1-13.
+* Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). [Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/). *Working Paper*. 1-20.
 
 
 Teaching
