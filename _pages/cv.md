@@ -36,13 +36,16 @@ Work experience
       <li>Conducted quantitative analysis using STATA and R.</li>
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
+    </details>
+      
+   <details>
     <summary><strong>Key Contribution</strong></summary>
     <ul>
       <li>Led completion of a research project on climate-induced migration for BRAC, overseeing survey tool design, field supervision, data analysis, and report writing.</li>
       <li>Mentored a team of 3 interns and junior researchers in developing research proposals and implementing studies.</li>
       <li>Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development.</li>
     </ul>
-  </details>
+    </details>
 
 * July 2024 – January 2025: Quantitative Researcher 
   * Impact Research Team, Work on Climate  
