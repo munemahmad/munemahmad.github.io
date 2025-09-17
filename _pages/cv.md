@@ -36,7 +36,7 @@ Work experience
       <li>Conducted quantitative analysis using STATA and R.</li>
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
-    <summary><strong>Responsibilities</strong></summary>
+    <summary><strong>Key Contribution</strong></summary>
     <ul>
       <li>Led completion of a research project on climate-induced migration for BRAC, overseeing survey tool design, field supervision, data analysis, and report writing.</li>
       <li>Mentored a team of 3 interns and junior researchers in developing research proposals and implementing studies.</li>
