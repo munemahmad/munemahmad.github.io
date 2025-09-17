@@ -60,3 +60,23 @@ body, h1, h2, h3, h4, h5, h6, p, a, li, span, strong, em {
 }
 
 
+/* ================================
+   For CV page work experience 
+================================== */
+
+details summary {
+  cursor: pointer;
+  color: #007acc;
+  font-weight: 500;
+  margin-top: 0.25rem;
+}
+
+details[open] summary {
+  color: #005a99;
+}
+
+details ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
