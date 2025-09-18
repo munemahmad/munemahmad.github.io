@@ -7,10 +7,13 @@ redirect_from:
   - /resume
 ---
 
+
+
+<div class="cv-card">
 You can download my latest CV from here:  [📄 Download CV (PDF)](/files/CV.pdf)
 
 You can download my latest resume from here:  [📄 Download Resume (PDF)](/files/Resume.pdf)
-
+</div>
 {% include base_path %}
 
 Education
@@ -186,8 +189,9 @@ Publications
 
 Teaching
 ======
+<div class="cv-card">
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  </div> 
 
