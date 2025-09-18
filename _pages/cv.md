@@ -100,6 +100,7 @@ Work experience
       <li>Secured a $20,000 research grant from Bangladesh Police through a successful proposal for a study on public traffic awareness, collaborating with a co-researcher in proposal development.</li>
     </ul>
     </details>
+
  
   <h3>Research Assistant</h3>
   <p><em>Change Initiative</em><br>May 2022- June 2023</p>
@@ -120,6 +121,8 @@ Work experience
       <li>Secured a $15,000 consultancy from OXFAM Bangladesh through a competitive proposal process for a comprehensive study on climate risk insurance, supporting the PI in proposal development.</li>
     </ul>
     </details>
+
+
 
   <h3>Graduate Research Assistant</h3>
   <p><em>Department of Economics, Comilla University</em><br>June 2020- April 2022</p>
