@@ -183,7 +183,7 @@ Publications
  <h3>Working Papers</h3>
     <ul>
        <li>Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). [Creative Synergies: An IRIO Analysis of Jakarta's Creative Industry and Its Spillover Effects on National Economic Growth](https://munemahmad.github.io/publications/workingpaper2-abstract/). <i>Working Paper</i>. 1-13.</li>
-       <li>Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). [Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/). <i>Working Paper</i>. 1-20.</li>
+       <li>Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). <a>[Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/)</a>. <i>Working Paper</i>. 1-20.</li>
   </ul>
   </div>
 
