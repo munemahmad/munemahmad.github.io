@@ -37,8 +37,10 @@ Education
       <li>Supervisor: Professor Dr. Kazi Mohammed Kamal Uddin</li>
     </ul>
     </div>  
+    
 Work experience
 ======
+
   <div class="cv-card">
   <h3>Research Fellow</h3>
   <p><em>Economics Department, Bangladesh Institute of Social Research Trust</em><br>Jan 2025 – Present</p>
