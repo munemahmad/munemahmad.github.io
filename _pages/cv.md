@@ -177,7 +177,7 @@ Publications
        <li>Chowdhury, M. A., Nijhum, H. R., & Uddin, K. M. K. (2021). [Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh](https://munemahmad.github.io/files/paper4.pdf). <i>Business and Economic Research</i>, 11(3), 1-18. https://doi.org/10.5296/ber.v11i3.18728</li>
        <li>Uddin, K. M. K., & Chowdhury, M. A. (2021). [Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation](https://munemahmad.github.io/files/paper3.pdf). <i>Asian Journal of Economic Modelling</i>, 9(1), 1-14. https://doi.org/10.18488/journal.8.2021.91.1.14</li> 
        <li>Uddin, K. M. K., & Chowdhury, M. A. (2020). [Impact of FDI on Employment Level in Bangladesh: A VECM Approach](https://munemahmad.github.io/files/paper2.pdf). <i>International Journal of Applied Economics, Finance and Accounting</i>, 8(1), 30-37. https://doi.org/10.33094/8.2017.2020.81.30.37</li> 
-       <li>Mazumder, S., & Chowdhury, M. A. (2020). [Facilitating higher education: differential status of public and private universities in Bangladesh](http://munemahmad.github.io/files/paper1.pdf). <i>IOSR Journal of Research & Method in Education (IOSR-JRME)</i>, 10(3), 14-23. https://doi.org/10.9790/7388-1003061423</li> 
+       <li>Mazumder, S., & Chowdhury, M. A. (2020). [Facilitating higher education: differential status of public and private universities in Bangladesh](http://munemahmad.github.io/files/paper1.pdf). <i>IOSR Journal of Research & Method in Education (IOSR-JRME)</i>, 10(3), 14-23. <a>https://doi.org/10.9790/7388-1003061423</a></li> 
        </ul>
     
  <h3>Working Papers</h3>
