@@ -7,6 +7,7 @@ entries_layout: list
 author_profile: true
 ---
 
+*(Clicking on a project title will direct you to the executive summary of the respective project.)*
 
 <ul>
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
