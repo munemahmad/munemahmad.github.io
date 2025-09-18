@@ -27,9 +27,9 @@ Education
     
 Work experience
 ======
-   <div class="cv-card">
+  <div class="cv-card">
   <h3>Research Fellow</h3>
-  <p><em>Bangladesh Institute of Social Research Trust</em><br>Jan 2025 – Present</p>
+  <p><em>Economics Department, Bangladesh Institute of Social Research Trust</em><br>Jan 2025 – Present</p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
@@ -46,10 +46,10 @@ Work experience
       <li>Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development.</li>
     </ul>
     </details>
-   </div>
+
    
-### July 2024 – January 2025: Impact Research Team, Work on Climate
-   *Quantitative Researcher*
+  <h3>Quantitative Researcher</h3>
+  <p><em>Impact Research Team, Work on Climate</em><br>July 2024 – January 2025</p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
@@ -58,7 +58,6 @@ Work experience
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
     </details>    
-
    <details>
     <summary><strong>Key Contribution</strong></summary>
     <ul>
@@ -69,8 +68,8 @@ Work experience
     </details>
 
  
-### June 2023- December 2024: Bangladesh Institute of Social Research Trust
-   *Research Associate* 
+  <h3>Research Associate</h3>
+  <p><em>Economics Department, Bangladesh Institute of Social Research Trust</em><br>June 2023- December 2024</p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
@@ -79,7 +78,6 @@ Work experience
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
     </details>    
-
    <details>
     <summary><strong>Key Contribution</strong></summary>
     <ul>
@@ -91,10 +89,9 @@ Work experience
       <li>Secured a $20,000 research grant from Bangladesh Police through a successful proposal for a study on public traffic awareness, collaborating with a co-researcher in proposal development.</li>
     </ul>
     </details>
-
-
-### May 2022- June 2023: Change Initiative
-  *Research Assistant*  
+ 
+  <h3>Research Assistant</h3>
+  <p><em>Change Initiative</em><br>May 2022- June 2023</p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
@@ -103,7 +100,6 @@ Work experience
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
     </details>    
-
    <details>
     <summary><strong>Key Contribution</strong></summary>
     <ul>
@@ -115,7 +111,10 @@ Work experience
     </details>
 
 ### June 2020- April 2022: Department of Economics, Comilla University 
-  *Graduate Research Assistant* 
+  *Graduate Research Assistant*
+  <h3>Graduate Research Assistant</h3>
+  <p><em>Department of Economics, Comilla University</em><br>June 2020- April 2022</p>
+  <p><em>Supervising Professor: Dr. Kazi Mohammed Kamal Uddin</em></p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
@@ -134,23 +133,26 @@ Work experience
       <li>Mentored two graduate students in econometrics, data analysis, and academic writing, supporting their thesis development and successful defense.</li>
     </ul>
     </details> 
-    
+    </div>
 
 
 
 
 Skills
 ======
-* Eviews
-* SPSS
-* STATA
-* R (Basic)
-* Kobo Toolbox
-* Survey CTO
-* ODK (XLS)
-* ArcGIS (Basic)
-* Github
-
+ <div class="cv-card">
+    <ul>
+      <li>Eviews</li>
+      <li>SPSS</li>
+      <li>STATA</li>
+      <li>R (Basic)</li>
+      <li>Kobo Toolbox</li>
+      <li>Survey CTO</li>
+      <li>ODK (XLS)</li>
+      <li>ArcGIS (Basic)</li>
+      <li>Github</li>
+       </ul>
+  </div>
 
 
 
