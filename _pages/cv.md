@@ -8,15 +8,11 @@ redirect_from:
 ---
 
 
-<div class="cv-card">
-   <ul>
-   <li>You can download my latest CV from here:  [📄 Download CV (PDF)](/files/CV.pdf)</li>
-   <li>You can download my latest resume from here:  [📄 Download Resume (PDF)](/files/Resume.pdf)</li>
-  </ul>
-</div>
-
+You can download my latest CV from here:  [📄 Download CV (PDF)](/files/CV.pdf)
+You can download my latest resume from here:  [📄 Download Resume (PDF)](/files/Resume.pdf)
 
 {% include base_path %}
+
 
 Education
 ======
