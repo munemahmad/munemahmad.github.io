@@ -39,6 +39,8 @@ Work experience
 ======
 
   <div class="cv-card">
+    
+  <div class="cv-experience-entry">
   <h3>Research Fellow</h3>
   <p><em>Economics Department, Bangladesh Institute of Social Research Trust</em><br>Jan 2025 – Present</p>
    <details>
@@ -57,8 +59,9 @@ Work experience
       <li>Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development.</li>
     </ul>
     </details>
+</div>
 
-   
+   <div class="cv-experience-entry">
   <h3>Quantitative Researcher</h3>
   <p><em>Impact Research Team, Work on Climate</em><br>July 2024 – January 2025</p>
    <details>
@@ -77,8 +80,9 @@ Work experience
       <li>Performed quantitative analysis of survey data, including data cleaning and summarization in Google Sheets, to address key research questions.</li>
     </ul>
     </details>
+</div>
 
- 
+ <div class="cv-experience-entry">
   <h3>Research Associate</h3>
   <p><em>Economics Department, Bangladesh Institute of Social Research Trust</em><br>June 2023- December 2024</p>
    <details>
@@ -100,8 +104,10 @@ Work experience
       <li>Secured a $20,000 research grant from Bangladesh Police through a successful proposal for a study on public traffic awareness, collaborating with a co-researcher in proposal development.</li>
     </ul>
     </details>
+  </div>
 
- 
+  
+ <div class="cv-experience-entry">
   <h3>Research Assistant</h3>
   <p><em>Change Initiative</em><br>May 2022- June 2023</p>
    <details>
@@ -121,9 +127,10 @@ Work experience
       <li>Secured a $15,000 consultancy from OXFAM Bangladesh through a competitive proposal process for a comprehensive study on climate risk insurance, supporting the PI in proposal development.</li>
     </ul>
     </details>
+  </div>
 
 
-
+<div class="cv-experience-entry">
   <h3>Graduate Research Assistant</h3>
   <p><em>Department of Economics, Comilla University</em><br>June 2020- April 2022</p>
   <p><em>Supervising Professor: Dr. Kazi Mohammed Kamal Uddin</em></p>
@@ -146,7 +153,7 @@ Work experience
     </details> 
     </div>
 
-
+</div>
 
 
 Skills
