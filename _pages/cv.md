@@ -15,16 +15,23 @@ You can download my latest resume from here:  [📄 Download Resume (PDF)](/file
 
 Education
 ======
-### MSS in Economics, Comilla University, 2020
-* Position        : 9th out of 60
-* Thesis          : Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
-* Supervisor      : Professor Dr. M. Zakir Saadullah Khan
+  <div class="cv-card">
+    <h3>MSS in Economics</h3>
+    <p><em>Comilla University, 2020</em></p>
+    <ul>
+      <li>Position: 9th out of 60</li>
+      <li>Thesis: Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis</li>
+      <li>Supervisor: Professor Dr. M. Zakir Saadullah Khan</li>
+    </ul>
    
-### BSS in Economics, Comilla University, 2019 
-* Position        : 8th out of 60
-* Research Report : Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh
-* Supervisor      : Professor Dr. Kazi Mohammed Kamal Uddin
-    
+    <h3>BSS in Economics</h3>
+    <p><em>Comilla University, 2019</em></p>
+    <ul>
+      <li>Position: 8th out of 60</li>
+      <li>Research Report: Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh</li>
+      <li>Supervisor: Professor Dr. Kazi Mohammed Kamal Uddin</li>
+    </ul>
+    </div>  
 Work experience
 ======
   <div class="cv-card">
