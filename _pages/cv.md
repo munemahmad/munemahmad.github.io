@@ -9,6 +9,7 @@ redirect_from:
 
 
 You can download my latest CV from here:  [📄 Download CV (PDF)](/files/CV.pdf)
+
 You can download my latest resume from here:  [📄 Download Resume (PDF)](/files/Resume.pdf)
 
 {% include base_path %}
