@@ -46,7 +46,7 @@
 
 
 /* 
-* spacing before Skills in cv section
+* spacing before Skills in CV section
 */
 
 
@@ -58,17 +58,26 @@
 }
 
 
-/*
-* card-like containers with HTML inside markdown.
-*/
-
 .cv-card {
   border: 1px solid #ddd;
   border-radius: 10px;
-  padding: 15px;
-  margin-bottom: 20px;
+  padding: 20px;   /* a little more breathing space */
+  margin-bottom: 25px;
   background-color: #f9f9f9;
   box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Each job inside the card */
+.cv-experience-entry {
+  margin-bottom: 20px;  /* space between experiences */
+  padding-bottom: 15px; /* keeps them separated */
+  border-bottom: 1px solid #eee; /* light divider line */
+}
+
+.cv-experience-entry:last-child {
+  border-bottom: none; /* remove line from last entry */
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .cv-card h3 {
@@ -80,12 +89,14 @@
 .cv-card p {
   margin: 5px 0 10px;
   font-size: 0.95rem;
+  color: #444;
 }
 
 .cv-card details summary {
   cursor: pointer;
   font-weight: bold;
   color: #0073e6;
+  margin-top: 8px;
 }
 
 
