@@ -27,8 +27,9 @@ Education
     
 Work experience
 ======
-### January 2025- Present: Bangladesh Institute of Social Research Trust
-   *Research Fellow*
+   <div class="cv-card">
+  <h3>Research Fellow</h3>
+  <p><em>Bangladesh Institute of Social Research Trust</em><br>Jan 2025 – Present</p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
@@ -37,7 +38,6 @@ Work experience
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
     </details>
-      
    <details>
     <summary><strong>Key Contribution</strong></summary>
     <ul>
@@ -46,7 +46,8 @@ Work experience
       <li>Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development.</li>
     </ul>
     </details>
-
+   </div>
+   
 ### July 2024 – January 2025: Impact Research Team, Work on Climate
    *Quantitative Researcher*
    <details>
