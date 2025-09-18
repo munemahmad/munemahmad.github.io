@@ -110,8 +110,6 @@ Work experience
     </ul>
     </details>
 
-### June 2020- April 2022: Department of Economics, Comilla University 
-  *Graduate Research Assistant*
   <h3>Graduate Research Assistant</h3>
   <p><em>Department of Economics, Comilla University</em><br>June 2020- April 2022</p>
   <p><em>Supervising Professor: Dr. Kazi Mohammed Kamal Uddin</em></p>
@@ -123,7 +121,6 @@ Work experience
       <li>Prepared research reports and policy briefs for donors.</li>
     </ul>
     </details>    
-
    <details>
     <summary><strong>Key Contribution</strong></summary>
     <ul>
@@ -159,23 +156,25 @@ Skills
 
 Publications
 ======
-### Articles
-
-* Chowdhury, M. A., & Khan, M. Z. S. (2025). [Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis](https://munemahmad.github.io/files/paper8.pdf). *Journal of Tropical Futures*, 2 (1), 37-53. https://doi.org/10.1177/2753893124125649 
-* Idowu, A., Chowdhury, M. A., Nijhum, H. R., & Eniola, B. M. (2024). [Exploring the Dynamics of Economic Instability: An Analysis of the Interplay between Consumer Spending, Consumer Confidence, and Macroeconomic Factors](https://munemahmad.github.io/files/paper7.pdf). *International Journal of Empirical Economics*, 3 (1), 2450003. https://doi.org/10.1142/S2810943024500033
-* Rahman, M. H., Chowdhury, M. A., & Akter, M. S. (2023). [Interaction of market size, inflation and trade openness on foreign direct investment inflows in India, China and Japan: panel dynamic analysis](https://munemahmad.github.io/files/paper6.pdf). *International Journal of Indian Culture and Business Management*, 29(1), 45-64. https://doi.org/10.1504/IJICBM.2023.130963 
-* Idowu, A., Ohikhuare, O. M., & Chowdhury, M. A. (2023). [Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries](https://munemahmad.github.io/files/paper5.pdf). *Quantitative Finance and Economics*, 7(1), 165-186. https://doi.org/10.3934/QFE.2023009     
-* Chowdhury, M. A., Nijhum, H. R., & Uddin, K. M. K. (2021). [Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh](https://munemahmad.github.io/files/paper4.pdf). *Business and Economic Research*, 11(3), 1-18. https://doi.org/10.5296/ber.v11i3.18728
-* Uddin, K. M. K., & Chowdhury, M. A. (2021). [Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation](https://munemahmad.github.io/files/paper3.pdf). *Asian Journal of Economic Modelling*, 9(1), 1-14. https://doi.org/10.18488/journal.8.2021.91.1.14 
-* Uddin, K. M. K., & Chowdhury, M. A. (2020). [Impact of FDI on Employment Level in Bangladesh: A VECM Approach](https://munemahmad.github.io/files/paper2.pdf). *International Journal of Applied Economics, Finance and Accounting*, 8(1), 30-37. https://doi.org/10.33094/8.2017.2020.81.30.37 
-* Mazumder, S., & Chowdhury, M. A. (2020). [Facilitating higher education: differential status of public and private universities in Bangladesh](http://munemahmad.github.io/files/paper1.pdf). *IOSR Journal of Research & Method in Education (IOSR-JRME)*, 10(3), 14-23. https://doi.org/10.9790/7388-1003061423 
-
-### Working Papers
-* Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). [Creative Synergies: An IRIO Analysis of Jakarta's Creative Industry and Its Spillover Effects on National Economic Growth](https://munemahmad.github.io/publications/workingpaper2-abstract/). *Working Paper*. 1-13.
-* Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). [Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/). *Working Paper*. 1-20.
-
-
-
+  <div class="cv-card">
+  <h3>Articles</h3>
+    <ul>
+       <li>Chowdhury, M. A., & Khan, M. Z. S. (2025). [Nexus between infrastructural development and economic growth: Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis](https://munemahmad.github.io/files/paper8.pdf). *Journal of Tropical Futures*, 2 (1), 37-53. https://doi.org/10.1177/2753893124125649</li> 
+       <li>Idowu, A., Chowdhury, M. A., Nijhum, H. R., & Eniola, B. M. (2024). [Exploring the Dynamics of Economic Instability: An Analysis of the Interplay between Consumer Spending, Consumer Confidence, and Macroeconomic Factors](https://munemahmad.github.io/files/paper7.pdf). *International Journal of Empirical Economics*, 3 (1), 2450003. https://doi.org/10.1142/S2810943024500033</li>
+       <li>Rahman, M. H., Chowdhury, M. A., & Akter, M. S. (2023). [Interaction of market size, inflation and trade openness on foreign direct investment inflows in India, China and Japan: panel dynamic analysis](https://munemahmad.github.io/files/paper6.pdf). *International Journal of Indian Culture and Business Management*, 29(1), 45-64. https://doi.org/10.1504/IJICBM.2023.130963</li> 
+       <li>Idowu, A., Ohikhuare, O. M., & Chowdhury, M. A. (2023). [Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries](https://munemahmad.github.io/files/paper5.pdf). *Quantitative Finance and Economics*, 7(1), 165-186. https://doi.org/10.3934/QFE.2023009</li>     
+       <li>Chowdhury, M. A., Nijhum, H. R., & Uddin, K. M. K. (2021). [Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh](https://munemahmad.github.io/files/paper4.pdf). *Business and Economic Research*, 11(3), 1-18. https://doi.org/10.5296/ber.v11i3.18728</li>
+       <li>Uddin, K. M. K., & Chowdhury, M. A. (2021). [Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation](https://munemahmad.github.io/files/paper3.pdf). *Asian Journal of Economic Modelling*, 9(1), 1-14. https://doi.org/10.18488/journal.8.2021.91.1.14</li> 
+       <li>Uddin, K. M. K., & Chowdhury, M. A. (2020). [Impact of FDI on Employment Level in Bangladesh: A VECM Approach](https://munemahmad.github.io/files/paper2.pdf). *International Journal of Applied Economics, Finance and Accounting*, 8(1), 30-37. https://doi.org/10.33094/8.2017.2020.81.30.37</li> 
+       <li>Mazumder, S., & Chowdhury, M. A. (2020). [Facilitating higher education: differential status of public and private universities in Bangladesh](http://munemahmad.github.io/files/paper1.pdf). *IOSR Journal of Research & Method in Education (IOSR-JRME)*, 10(3), 14-23. https://doi.org/10.9790/7388-1003061423</li> 
+       </ul>
+    
+ <h3>Working Papers</h3>
+    <ul>
+       <li>Ichsan, A. K. N., Fresky, M. A., Chowdhury, M. A., and Rahmawati, Y. (2025). [Creative Synergies: An IRIO Analysis of Jakarta's Creative Industry and Its Spillover Effects on National Economic Growth](https://munemahmad.github.io/publications/workingpaper2-abstract/). *Working Paper*. 1-13.</li>
+       <li>Chowdhury, M. A., Idowu, A., Ajayi, F., and Rahmawati, Y. (2025). [Economic Complexity and Its Role in Shaping Renewable Energy Consumption Patterns in Selected South Asian Countries](https://munemahmad.github.io/publications/workingpaper1-abstract/). *Working Paper*. 1-20.</li>
+  </ul>
+  </div>
 
 
 Teaching
