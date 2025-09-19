@@ -36,12 +36,13 @@ redirect_from:
 
 ### Consultancy
 1. Gender analysis (In 03 Cities Chattogram, Cox’s Bazar & Tangail) of waste value chain
-   Funded by: UNDP Bangladesh
-   *Role: Study Coordinator*
-
+   Funded by: UNDP Bangladesh | *Role: Study Coordinator*
+   
 ### Research Article
-1. Nexus between Climate Vulnerability & Industrialization: *With Brice Kamguia & Xuan Hoa Nghiem*
-2. Macroeconomic Policy Uncertainty, Behavioral Mediators, and the Climate-Poverty Nexus: *Munem Ahmad Chowdhury*
+1. Does sustainable industrialization reduce climate vulnerability?
+   *With Brice Kamguia & Xuan Hoa Nghiem*
+3. Macroeconomic Policy Uncertainty, Behavioral Mediators, and the Climate-Poverty Nexus.
+   *Munem Ahmad Chowdhury*
 
 ## Research and Consultancy Awards
 
