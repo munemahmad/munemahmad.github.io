@@ -1,7 +1,7 @@
 ---
-title: "Nexus between Climate Vulnerability & Industrialization"
+title: "Does sustainable industrialization reduce climate vulnerability?"
 collection: publications
 category: work-in-progress
 permalink: /publications/wip2/
-citation: "Nexus between Climate Vulnerability & Industrialization: With <i>Brice Kamguia & Xuan Hoa Nghiem</i>"
+citation: "Does sustainable industrialization reduce climate vulnerability?: With <i>Brice Kamguia & Xuan Hoa Nghiem</i>"
 ---
