@@ -198,7 +198,7 @@ Skills
       <li>Eviews</li>
       <li>SPSS</li>
       <li>STATA</li>
-      <li>R (Basic)</li>
+      <li>R</li>
       <li>Kobo Toolbox</li>
       <li>Survey CTO</li>
       <li>ODK (XLS)</li>
