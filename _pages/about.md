@@ -32,7 +32,7 @@ redirect_from:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQP7h4_pbbRfH4f-R4zFlJLbXaNiv1GH7UD59iIdIkJVVBla9JdXgpoXdz4kA8oLuMpROInNv-PXJ19/pubembed?start=true&loop=true&delayms=2000"   frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Current Research
+## Ongoing Research
 
 ### Consultancy
 1. Gender analysis (In 03 Cities Chattogram, Cox’s Bazar & Tangail) of waste value chain
