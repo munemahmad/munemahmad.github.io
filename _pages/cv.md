@@ -46,9 +46,17 @@ Work experience
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
-      <li>Led baseline survey design and field supervision for climate-related research.</li>
-      <li>Conducted quantitative analysis using STATA and R.</li>
-      <li>Prepared research reports and policy briefs for donors.</li>
+       <li>Lead the preparation of research proposals, concept notes, research reports, and high-quality publications, ensuring academic rigor and policy relevance.</li>
+       <li>Deliver presentations at national and international seminars, workshops, and conferences, representing the institution’s research excellence.</li>
+       <li>Provide strategic oversight, monitoring, and supervision of ongoing research projects to ensure timely delivery, budget compliance, and methodological soundness.</li>
+       <li>Publish original research in peer-reviewed journals of international repute and provide constructive peer review and commentary on colleagues’ work.</li>
+       <li>Establish and strengthen collaborations with national, regional, and international research and development organizations.</li>
+       <li>Mentor and guide Research Associates, Research Officers, and Research Interns, fostering professional growth and building institutional research capacity.</li>
+       <li>Prepare policy briefs, op-eds, and analytical pieces for national and international platforms to inform decision-makers and the wider public.</li>
+       <li>Identify, pursue, and secure research and consultancy opportunities, including liaising with prospective donors, partners, and clients.</li>
+       <li>Contribute to the design and delivery of capacity-building workshops, training programs, and academic seminars.</li>
+       <li>Provide intellectual leadership in defining new research agendas aligned with institutional priorities and emerging global challenges.</li>
+       <li>Perform other professional tasks and responsibilities as assigned by the institution’s leadership.</li>
     </ul>
     </details>
    <details>
@@ -61,15 +69,19 @@ Work experience
     </details>
 </div>
 
+
    <div class="cv-experience-entry">
   <h3>Quantitative Researcher</h3>
   <p><em>Impact Research Team, Work on Climate</em><br>July 2024 – January 2025</p>
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
-      <li>Led baseline survey design and field supervision for climate-related research.</li>
-      <li>Conducted quantitative analysis using STATA and R.</li>
-      <li>Prepared research reports and policy briefs for donors.</li>
+      <li>Collaborate with the Executive Director and program staff to define and refine research goals aligned with organizational priorities.</li>
+     <li>Design, program, and test surveys and data collection instruments to ensure methodological rigor and reliability.</li>
+     <li>Develop sampling strategies, administer and distribute surveys, and coordinate field operations to maximize response quality and representativeness.</li>
+     <li>Conduct quantitative data analysis, including data cleaning, summarization, and bias adjustment, to generate valid and actionable insights.</li>
+     <li>Translate research findings into clear, compelling narratives and reports tailored for internal stakeholders and external audiences.</li>
+     <li>Partner with the Marketing and Communications team to disseminate findings through publications, presentations, and other outreach channels.</li>
     </ul>
     </details>    
    <details>
@@ -88,9 +100,14 @@ Work experience
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
-      <li>Led baseline survey design and field supervision for climate-related research.</li>
-      <li>Conducted quantitative analysis using STATA and R.</li>
-      <li>Prepared research reports and policy briefs for donors.</li>
+      <li>Preparing research proposals, concept papers, research reports, other reports, seminars, and workshop presentations.</li>
+      <li>Attending national and international seminars, workshops, etc., and giving presentations.</li>
+      <li>Monitoring and supervising on-going research works to ensure completion within time, budget and right quality.</li>
+      <li>Preparing articles for world-class journals and giving comments on articles of other researchers.</li>
+      <li>Coordinating with the national and international research and development organizations.</li>
+      <li>Preparing op-ed for national newspapers.</li>
+      <li>Search for call for research and other research/consultancy opportunities.</li>
+      <li>Other works as assigned from time to time.</li>
     </ul>
     </details>    
    <details>
@@ -113,9 +130,18 @@ Work experience
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
-      <li>Led baseline survey design and field supervision for climate-related research.</li>
-      <li>Conducted quantitative analysis using STATA and R.</li>
-      <li>Prepared research reports and policy briefs for donors.</li>
+      <li>Identify possible research areas and assist in developing research proposals.</li>
+      <li>Develop research plans for conducting studies and collecting data on multiple streams such as the internet, legal documents, and other published research, etc.</li>
+      <li>Develop data collection tools (questionnaire, checklist, etc.), manage it in electronic form (Kobo toolbox, Survey CTO, etc.), and support data collection activities.</li>
+      <li>Conduct field visits and collect data from the field for the purpose of different studies.</li>
+      <li>Perform research objective-focused statistical and econometric analysis, and interpret their results.</li>
+      <li>Conduct economic analysis as a part of the feasibility study of various government projects.</li>
+      <li>Produce visual presentations of analyzed data and prepare presentations for sharing with the project management team.</li>
+      <li>Prepare research reports based on the primary and secondary data.</li>
+      <li>Assist in developing project proposals for raising funds from different donor organizations and coordinate with different stakeholders as per project need.</li>
+      <li>Prepare write-ups on different thematic issues and concept notes for events.</li>
+      <li>Provide support to organize press briefing and dissemination events.</li>
+     <li>Prepare policy briefing based on research findings.</li>ors.</li>
     </ul>
     </details>    
    <details>
@@ -129,7 +155,6 @@ Work experience
     </details>
   </div>
 
-
 <div class="cv-experience-entry">
   <h3>Graduate Research Assistant</h3>
   <p><em>Department of Economics, Comilla University</em><br>June 2020- April 2022</p>
@@ -137,9 +162,17 @@ Work experience
    <details>
     <summary><strong>Responsibilities</strong></summary>
     <ul>
-      <li>Led baseline survey design and field supervision for climate-related research.</li>
-      <li>Conducted quantitative analysis using STATA and R.</li>
-      <li>Prepared research reports and policy briefs for donors.</li>
+      <li>Assist in designing and conducting academic research projects, including literature reviews, data collection, and data analysis.</li>
+      <li>Support the preparation of research proposals, manuscripts, reports, and conference presentations under the professor’s guidance.</li>
+      <li>Manage and clean datasets, run statistical/econometric analyses, and prepare visualizations or tables for publication.</li>
+      <li>Provide editorial support in drafting and reviewing academic papers, grant applications, and project documents.</li>
+      <li>Coordinate with other research team members, graduate students, and administrative staff to ensure smooth project implementation.</li>
+      <li>Assist in organizing academic seminars, workshops, and conferences hosted by the supervising professor.</li>
+      <li>Perform administrative and logistical tasks related to research projects as assigned.</li>
+      <li>Assist the professor in preparing and delivering course materials, including lecture slides, handouts, and supplementary resources.</li>
+      <li>Conduct tutorials, discussion sessions, and lab work to reinforce course concepts for students.</li>
+      <li>Assist the professor in preparing and delivering course materials, including lecture slides, handouts, and supplementary resources.</li>
+      <li>Conduct tutorials, discussion sessions, and lab work to reinforce course concepts for students.</li>
     </ul>
     </details>    
    <details>
@@ -154,6 +187,8 @@ Work experience
     </div>
 
 </div>
+
+
 
 
 Skills
