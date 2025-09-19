@@ -32,14 +32,16 @@ redirect_from:
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQP7h4_pbbRfH4f-R4zFlJLbXaNiv1GH7UD59iIdIkJVVBla9JdXgpoXdz4kA8oLuMpROInNv-PXJ19/pubembed?start=true&loop=true&delayms=2000"   frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-
 ## Current Research
 
-1. AAA
-2. BBB
-3. CCC
-4. DDD
+### Consultancy
+1. Gender analysis (In 03 Cities Chattogram, Cox’s Bazar & Tangail) of waste value chain
+   Funded by: UNDP Bangladesh
+   *Role: Study Coordinator*
 
+### Research Article
+1. Nexus between Climate Vulnerability & Industrialization: *With Brice Kamguia & Xuan Hoa Nghiem*
+2. Macroeconomic Policy Uncertainty, Behavioral Mediators, and the Climate-Poverty Nexus: *Munem Ahmad Chowdhury*
 
 ## Research and Consultancy Awards
 
