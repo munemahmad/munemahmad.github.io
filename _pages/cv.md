@@ -202,7 +202,8 @@ Skills
       <li>Kobo Toolbox</li>
       <li>Survey CTO</li>
       <li>ODK (XLS)</li>
-      <li>ArcGIS (Basic)</li>
+      <li>ArcGIS</li>
+      <li>Latex</li>
       <li>Github</li>
        </ul>
   </div>
