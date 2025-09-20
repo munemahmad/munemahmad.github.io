@@ -55,6 +55,7 @@ Over the course of my career, I have successfully developed and secured multiple
 
 ### Annual Conference on Social Research
 For three consecutive years (2023, 2024, and 2025), I have been part of the organizing team of the Annual Conference on Social Research hosted by BISR Trust, the largest academic networking platform for social science researchers in Bangladesh. This year marks its tenth edition. In the past two years, my responsibilities included reviewing papers and moderating sessions. However, this year I am serving as the Organizing Manager, overseeing the entire process—from handling communications with paper submitters to designing the full program.
+
 In news: [1](https://www.observerbd.com/news/497762), [2](https://www.thedailystar.net/news/bangladesh/education/news/eliminating-discrimination-research-sector-need-the-hour-3744146), [3](https://thereport.live/bangladesh/eliminating-discrimination-in-research-sector-is-necessity/32597), [4](https://dailycountrytodaybd.com/story/eliminating-discrimination-in-research-dector-stressed#:~:text=Renowned%20scientist%20Dr.,seasons%20from%20a%20single%20planting)  
 
 
