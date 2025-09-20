@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-
-## Bio
 Welcome to my personal website.
 
+## Bio
+
 I am currently a Research Fellow at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Prior to this role, I served as a Research Associate at the same institution, following my early research experience as a Research Assistant at [Change Initiative](https://www.changei.earth/).
+
 I earned both my Bachelor’s (BSS) and Master’s degrees in Economics from [Comilla University](https://www.cou.ac.bd/), where I also worked as a Graduate Research Assistant under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies. 
+
 At present, I am engaging deeply with literature in Behavioral Economics, Development Economics, and the Economics of Climate Change, with the aim of developing research questions that align with both my academic training and professional experiences.
 
 ## Research Interests
