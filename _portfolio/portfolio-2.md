@@ -1,6 +1,6 @@
 ---
 title: "Readiness for the Fourth Industrial Revolution (4IR)"
-excerpt: "<br/><img src='/images/portfolio_image2.png'>"
+excerpt: "**Methodology**: Likeart Scale Based Mean Score. <br/><img src='/images/portfolio_image2.png'>"
 collection: portfolio
 lang: "STATA"
 date: 2025-08-29
