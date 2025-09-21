@@ -1,5 +1,5 @@
 ---
-title: "Readiness for the Fourth Industrial Revolution (4IR)"
+title: "Does sustainable industrialization reduce climate vulnerability?"
 excerpt: "<br/><img src='/images/portfolio_image5.png'>"
 collection: portfolio
 lang: "STATA"
