@@ -100,4 +100,20 @@
 }
 
 
+/* Button style for Opeds "Read Online" */
+.btn-read {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-top: 5px;
+  font-size: 0.85rem;
+  color: #fff !important;
+  background-color: #0073e6;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-read:hover {
+  background-color: #005bb5;
+}
 
