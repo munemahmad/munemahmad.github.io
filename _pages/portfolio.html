@@ -19,9 +19,9 @@ author_profile: true
 </div>
 
 <!-- Grouped Projects -->
-{% assign stata_projects = site.portfolio | where: "lang", "STATA" %}
-{% assign r_projects = site.portfolio | where: "lang", "R" %}
-{% assign python_projects = site.portfolio | where: "lang", "Python" %}
+{% assign stata_projects = site.portfolio | where: "lang", "STATA" | sort: "date" | reverse %}
+{% assign r_projects = site.portfolio | where: "lang", "R" | sort: "date" | reverse %}
+{% assign python_projects = site.portfolio | where: "lang", "Python" | sort: "date" | reverse %}
 
 <!-- STATA -->
 <h2 id="stata">STATA</h2>
