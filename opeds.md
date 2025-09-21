@@ -7,19 +7,18 @@ author_profile: true
 *(Clicking on a op-ed title will direct you to the unedited version.)*
 
 
-<ul>
+<ul class="opeds-list">
 {% assign sorted_opeds = site.opeds | sort: 'date' | reverse %}
 {% for oped in sorted_opeds %}
-  <li>
-    <a href="{{ oped.url }}">{{ oped.title }}</a> 
-    - <em>{{ oped.newspaper }}</em>, {{ oped.date | date: "%B %d, %Y" }}<br>
+  <li class="opeds-item">
+    <strong>{{ oped.title }}</strong><br>
+    <em>{{ oped.newspaper }}</em>, {{ oped.date | date: "%B %d, %Y" }}
+    <a href="{{ oped.read_online }}" target="_blank" class="btn-read">Read Online</a><br>
 
-    <!-- Reading Time -->
     {% assign words = oped.content | number_of_words %}
     {% assign minutes = words | divided_by:200 | ceil %}
-    <span style="font-size:0.85em; color:#666;">~{{ minutes }} min read</span><br>
-
-    <a href="{{ oped.read_online }}" target="_blank" class="btn-read">Read Online</a>
+    <span class="reading-time">~{{ minutes }} min read</span>
   </li>
 {% endfor %}
 </ul>
+
