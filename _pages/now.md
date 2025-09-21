@@ -13,8 +13,6 @@ author_profile: true
 
 ✍️ Writing an article on the nexus between Sustainable Industrialization and Climate Change Vulnerability
 
-📊 Self-learning data analysis focusing on **R** 
-
 📈 Learning **Panel Econometrics** and **Spatial Econometrics**  
 
 📖 Reading *Behavioral Economics: The Basics* by **Philip Corr** and **Anke Plagnol** 
