@@ -3,7 +3,7 @@ title: "Readiness for the Fourth Industrial Revolution (4IR)"
 excerpt: "<br/><img src='/images/portfolio_image2.png'>"
 collection: portfolio
 lang: "STATA"
-date: 2025-12-31
+date: 2025-08-29
 ---
 
 You can read the abstract from here:  [👀📖✨ Read](/projects/project9)
