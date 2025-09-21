@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Opeds"
+title: "Op-Eds"
 permalink: /opeds/
 author_profile: true
 ---
+*(Clicking on a op-ed title will direct you to the unedited version.)*
+
 
 <ul>
 {% assign sorted_opeds = site.opeds | sort: 'date' | reverse %}
