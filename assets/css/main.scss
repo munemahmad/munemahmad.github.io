@@ -117,3 +117,11 @@
   background-color: #005bb5;
 }
 
+/* Hide "Sitemap" link in footer */
+.site-footer a[href*="sitemap"] {
+  display: none !important;
+}
+
+
+
+
