@@ -31,7 +31,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 ## Ongoing Research
 
 ### Consultancy
-1. Gender analysis (In 03 Cities Chattogram, Cox’s Bazar & Tangail) of waste value chain
+1. Gender Analysis of the Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (plastic circularity ecosystem and circular economy)
    Funded by: UNDP Bangladesh | *Role: Study Coordinator*
    
 ### Research Article
