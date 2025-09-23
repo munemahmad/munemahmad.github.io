@@ -1,5 +1,5 @@
 ---
-title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (Plastic Circularity Ecosystem and Circular Economy)  <img src='/images/wip.png'>"
+title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (Plastic Circularity Ecosystem and Circular Economy)  <img src='/images/wip2.png'>"
 duration: "September 2025 – January 2026"
 client: "UNDP, Bangladesh"
 sample_size: "1475 Questionnaire Survey, 7 FGDs, 40 KIIs, and 16 observation checklists"
