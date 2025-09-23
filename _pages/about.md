@@ -33,7 +33,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 ### Consultancy
 1. Gender Analysis of the Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (plastic circularity ecosystem and circular economy)
 
-Funded by: UNDP Bangladesh | *Role: Study Coordinator*
+   Funded by: UNDP Bangladesh; *Role: Study Coordinator*.
    
 ### Research Article
 1. Does sustainable industrialization reduce climate vulnerability?
