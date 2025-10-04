@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-I am currently a **Research Fellow** at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Prior to this role, I served as a **Research Associate** at the same institution, following my early research experience as a **Research Assistant** at [Change Initiative](https://www.changei.earth/).
+Currently, I am a **Research Fellow** at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Prior to this role, I served as a **Research Associate** at the same institution, following my early research experience as a **Research Assistant** at [Change Initiative](https://www.changei.earth/).
 
 I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies. 
 
@@ -46,7 +46,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 Over the course of my career, I have successfully developed and secured multiple research and consultancy projects through competitive proposal writing, both as a team member and as a team leader.
 
 * $120,000 consultancy for an e-Parliament Feasibility Study; *UNDP Bangladesh* 
-* $19,850 consultancy for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, *UNDP Bangladesh*
+* $19,850 consultancy for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, *UNDP Bangladesh* 
 * $20,000 research grant for a study on public traffic awareness; *Bangladesh Police*
 * $15,000 consultancy for  a comprehensive study on climate risk insurance; *OXFAM Bangladesh*
 
