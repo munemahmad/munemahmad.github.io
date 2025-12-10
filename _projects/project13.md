@@ -1,30 +1,19 @@
 ---
-title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (Plastic Circularity Ecosystem and Circular Economy)  <img src='/images/wip3.png'>"
-duration: "September 2025 – January 2026"
+title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (Plastic Circularity Ecosystem and Circular Economy)"
+duration: "September 2025 – December 2025"
 client: "UNDP, Bangladesh"
-sample_size: "1475 Questionnaire Survey, 7 FGDs, 40 KIIs, and 16 observation checklists"
+sample_size: "1475 Questionnaire Survey with three respondent groups (waste workers, households, and business), 7 FGDs, 40 KIIs, and 7 observation checklists"
 responsibilities: "Survey Tools Design, Field Team Supervision, Developing ODK, Database Management, Data Analysis, and Writing the Report."
 excerpt: "Contributing to this project while working at Bangladesh Institute of Social Research Trust"
 permalink: /projects/project13
-date: 2026-01-15
+date: 2025-12-10
 collection: projects
 layout: archive
 author_profile: true
 ---
 ## Executive Summary
 
-Work in progress.
-
-### Overall Objective
-
-The overall objective of this assignment is to conduct a comprehensive gender analysis of the plastic waste value chain in Chattogram City Corporation, Cox’s Bazar Municipality, and Tangail Municipality to identify gender-based disparities, barriers, and opportunities affecting women and marginalized groups. The study will examine gender roles, access to resources, decision-making, health and safety conditions, and the influence of intersecting factors such as age, disability, and socio-economic status. It will provide evidence-based insights to inform gender-responsive strategies that promote equitable participation, leadership, and empowerment across the plastic circularity ecosystem, ensuring that the transition to a circular economy is inclusive, fair, and beneficial to all. 
-
-### Specific Objectives 
-
-1. To map and document the distinct roles of women, men, and gender-diverse individuals in the waste collection, sorting, processing, and recycling segments of the plastics value chain.
-2. Identify systemic barriers/vulnerabilities (social, health, economic, cultural) that limit women’s and marginalized genders’ full participation in the plastic’s circular economy.
-3. Examine disparities in access to financial services, training, technology, equipment, and market opportunities among different gender groups.
-4. Identify specific needs and priorities of women, men and people with different gender identities as well as highlight entry points for integrating gender equality and women’s empowerment into circular economy initiatives.
-5. Recommend capacity building training/support can be provided to the beneficiaries specially for women & develop concept notes on different types of training /support activities.
-6. Examine gender-specific health and safety risks (e.g., exposure to hazardous waste, workplace harassment) faced by workers and their family members in informal and formal waste sectors.
-7. Identify gaps in existing policies and regulations related to the waste management value chain and recommend gender-inclusive reforms. 
+This report presents a comprehensive gender analysis of the plastic waste value chain in Bangladesh, focusing on Chattogram City Corporation, Cox’s Bazar Municipality, and Tangail Municipality as part of UNDP's TCCF Plastic Circularity project. The primary objectives include mapping gendered roles across waste collection, sorting, processing, and recycling; identifying barriers and vulnerabilities (social, health, economic, cultural) that hinder women's and marginalized groups' involvement; assessing disparities in access to finance, training, technology, and markets; exploring health and safety risks; and recommending gender-responsive reforms, capacity-building initiatives, and policy adjustments to foster inclusive circular economy practices.
+Employing a mixed-methods approach under the Gender-Responsive Circularity Analysis (GRCA) Framework, which integrates tools like the Harvard Analytical Framework and UNDP's Gender Marker, the research combined quantitative surveys (with samples of 779 households, 562 waste workers, and 151 institutions, stratified for representativeness and adjusted for design effects) with qualitative insights from  Key Informant Interviews (KIIs), Focus Group Discussions (FGDs), In-depth Interviews (IDIs), and observation checklists. An intersectional lens highlighted how gender intersects with age, disability, ethnicity, and socio-economic status, ensuring a nuanced view of diverse experiences.
+Key findings reveal entrenched gender disparities. At the household level, women shoulder the bulk of unpaid waste handling (e.g., 77.85% of gathering and 66.45% of separation), exacerbating time poverty amid 7.15 daily hours of care work—over five times that of men. Yet, women often control income from selling recyclables (81.87%), providing a rare avenue for agency, though barriers like unreliable collection services (e.g., 36.11% in Tangail report "never" receiving service) and space constraints undermine segregation efforts. Among waste workers, women (predominantly informal at 77%) are confined to low-value roles like sorting, earning 30% less than men (311 BDT vs. 442 BDT daily), due to occupational segregation, limited training, and care burdens that reduce paid hours (7.7 vs. 9.25 for men). Health risks are acute, with 65% never using PPE (74% for women), leading to musculoskeletal issues (43.13%), chemical exposures, and reproductive problems; GBV affects marginalized groups disproportionately (50% for third gender). Institutions show policy voids: 94.67% have male executives, 91% ignore women-led supply chains, 49% lack harassment policies, and only 16% offer separate sanitation, perpetuating exclusion. Broader systemic issues include stigma (60% perceive moderate to strong), loan denials (e.g., due to lack of ID for third gender), and absent social protections (89.42% have none).
+From a gender and social inclusion perspective, the analysis underscores how intersecting vulnerabilities, such as for Harijan communities, persons with disabilities, and third gender individuals, amplify exploitation, while informal networks offer resilience but reinforce precarity. Policy implications emphasize integrating gender into circular economy strategies: mandating inclusive infrastructure (e.g., childcare, fitted PPE), reforming finance for asset-poor groups, enforcing harassment policies, and allocating budgets for women's representation in decision-making. Recommendations include tailored trainings (e.g., on financial literacy and technical skills) and concept notes for supports like community care systems, aiming to transform the waste sector into a vehicle for equitable green growth.
