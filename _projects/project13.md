@@ -1,12 +1,12 @@
 ---
 title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (Plastic Circularity Ecosystem and Circular Economy)"
-duration: "September 2025 – December 2025"
+duration: "September 2025 – January 2026"
 client: "UNDP, Bangladesh"
 sample_size: "1475 Questionnaire Survey with three respondent groups (waste workers, households, and business), 7 FGDs, 40 KIIs, and 7 observation checklists"
 responsibilities: "Survey Tools Design, Field Team Supervision, Developing ODK, Database Management, Data Analysis, and Writing the Report."
 excerpt: "Contributing to this project while working at Bangladesh Institute of Social Research Trust"
 permalink: /projects/project13
-date: 2025-12-10
+date: 2026-01-05
 collection: projects
 layout: archive
 author_profile: true
