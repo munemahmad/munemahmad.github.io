@@ -6,7 +6,7 @@ sample_size: "592 Questionnaire Survey, 8 Checklists, 26 KIIs and 8 IDIs"
 responsibilities: "Survey Tools design, Field Team Supervision, Data Analysis, and Report writing."
 excerpt: "Contributed to this project while working at Bangladesh Institute of Social Research Trust"
 permalink: /projects/project9
-date: 2025-12-31
+date: 2025-12-09
 collection: projects
 layout: archive
 author_profile: true
