@@ -1,0 +1,5 @@
+Dr. Selim Jahan is an eminent development economist, widely recognized for his distinguished contributions during his tenure as Former Director of the Human Development Report Office and the Poverty Division at the United Nations Development Programme (UNDP), New York, USA. It is my distinct honor to work under his guidance as a Research Associate for the “AI Unveils Tomorrow Project” at the UNDP Regional Office in Bangkok.
+
+Currently, I am working with him in a research project that examines the evolution of business and trade in Bangladesh from 1947 to the present. This research spans three significant historical periods—1947–1971, 1972–1990, and 1990–present—and analyzes the development, trends, regional distribution, and socio-economic impacts of key sectors, including tea, jute, textiles, ready-made garments, leather, pharmaceuticals, frozen foods, shipbreaking and heavy industries, IT and software, electronics and light engineering, and agro-processing.
+
+**Dr. Jahan has been familiar with my academic and research work since November 2025.**
