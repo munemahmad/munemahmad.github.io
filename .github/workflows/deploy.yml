@@ -74,7 +74,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: grep -rn "ruby-version\|3\.2\.2\|3\.3\.5" .github/ .ruby-version Gemfile* 2>/dev/null"
           bundler-cache: true
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
